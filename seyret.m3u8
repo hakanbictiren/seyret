@@ -1,6 +1,5 @@
 #EXTM3U 
 x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="BELGESEL",Discovery HD
-http://xxx.com:25461/live/live:marco_cs_1/dxCsNPZKBt/68601.m3u8
-
+#EXTINF:-1 tvg-ID="ABCWSB.us" tvg-name="US | ABC Atlanta WSB-TV" tvg-logo="https://i.ibb.co/fN42XF8/abc.png" group-title="USA Locals",US | ABC Atlanta WSB-TV
+http://iptv-area-51.tv:2095/yourusername...word/14246
