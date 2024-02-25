@@ -1,6 +1,4 @@
-#EXTM3U 
-x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
-
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml",
 #EXTINF:-1,beIN MOVIES PREMIER
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,beIN MOVIES TURK
@@ -10,6 +8,38 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-7
 #EXTINF:-1,beIN SERIES 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,beIN SERIES 2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema TV
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema TV 2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema TV Aksiyon
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema TV Aksiyon 2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv Aile
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv Aile 2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv Komedi
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv Komedi 2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv 1001
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Sinema Tv 1002
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,FilmBox
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,MovieSmart Classic
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,MovieSmart Türk
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Dizi Smart Premium
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,FX
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1,Dizi Smart Max
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,beIN İZ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
