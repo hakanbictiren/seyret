@@ -1,263 +1,263 @@
 #EXTM3U 
 x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN MOVIES PREMIER
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 2
+#EXTINF:-1,beIN MOVIES TURK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT SPOR
+#EXTINF:-1,beIN MOVIES STARS
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT HABER
+#EXTINF:-1,beIN SERIES 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT MÜZİK
+#EXTINF:-1,beIN SERIES 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN İZ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN H&E
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN GURME HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,SHOW TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT1 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,KANAL D HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,ATV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NOW HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,STAR HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV 8 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,360 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TLC HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BLOOMBERG HT HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,A HABER HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT HABER HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,KANAL 7 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,A2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BEYAZ TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV 100 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,ÜLKE TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV NET HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,24 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NTV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CNN TÜRK HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,A PARA
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,HABERTÜRK HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TGRT HABER
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,EKOTURK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,HABER GLOBAL HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TELE1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DMAX HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,FLASH HABER HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,LİDER HABER TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,ULUSAL TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,HALK TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TEVE 2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV8,5
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT 3 SPOR
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT AVAZ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT KURDİ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TÜRK HABER TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,SÖZCÜ TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT TÜRK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,KRT TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BENGÜ TÜRK TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CADDE TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV 4
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT 2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,VAV TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DİYANET TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,UVI JEWELLERY TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,EUROSPORT 1 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,EUROSPORT2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,FB TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS 1 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS 2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS 3 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS 4 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS 5 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS MAX HD 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS MAX HD 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN SPORTS HABER HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT SPOR HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT SPOR YILDIZ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,A SPOR HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TJK TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,SPORTS TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MCM TOP HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MEZZO HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MTV 00s
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT MÜZİK HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TMB TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MTV LIVE HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MTV HITS
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,FASHION TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN H&E HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BBC FIRST
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,RAI1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TV5 MONDE HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT ARABI HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CGTN
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,EURONEWS HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BLOOMBERG EUROPEAN
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,A NEWS HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BBC WORLD NEWS HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT WORLD HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CNN INTERNATIONAL HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,ALJAZEERA INTERNATIONAL
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,ALJAZEERA
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,FRANCE 24 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,KABE (CANLI) ALQURAN
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,SAUDİ SUNNAH
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NHK WORLD JPN TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT EBA TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT ÇOCUK HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BBC CbeeBies HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BABY TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DA VINCI LEARNING HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DISNEY J.R
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CARTON NETWORK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MİNİKA GO
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NICK JR
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NICKELODEON
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NICKELODEON HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,MİNİKA ÇOCUK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,NAT GEO HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN İZ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,BBC EARTH
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TARİH TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,National Geographic WILD HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,YABAN TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT BELGESEL HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DISCOVERY CHANNEL HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TGRT Belgesel
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,CGTN DOCUMENTARY HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,beIN BOX OFFICE HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TARAFTAR HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TARAFTAR 2 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TARAFTAR 3 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT 4K
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,DIGITURK 4K
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,trt
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,trt
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,trt
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 1
+#EXTINF:-1,trt
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
