@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml",
-#EXTINF:-1,beIN MOVIES PREMIER
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml",
+#EXTINF:-1,beIN MOVIES PREMIERE
 https://vavoo.to/play/401080093/index.m3u8
 #EXTINF:-1,beIN MOVIES TURK
 https://vavoo.to/play/3967568090/index.m3u8
@@ -11,37 +11,37 @@ https://vavoo.to/play/715970015/index.m3u8
 https://vavoo.to/play/1829547791/index.m3u8
 #EXTINF:-1,beIN BOX OFFICE HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema TV
+#EXTINF:-1,SİNEMA TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema TV 2
+#EXTINF:-1,SİNEMA TV 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema TV Aksiyon
+#EXTINF:-1,SİNEMA TV AKSİYON
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema TV Aksiyon 2
+#EXTINF:-1,SİNEMA TV AKSİYON 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Yerli
+#EXTINF:-1,SİNEMA Tv YERLİ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Yerli 2
+#EXTINF:-1,SİNEMA Tv YERLİ 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Aile
+#EXTINF:-1,SİNEMA Tv AİLE
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Aile 2
+#EXTINF:-1,SİNEMA Tv AİLE 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Komedi
+#EXTINF:-1,SİNEMA Tv KOMEDİ
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv Komedi 2
+#EXTINF:-1,SİNEMA Tv KOMEDİ 2
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv 1001
+#EXTINF:-1,SİNEMA Tv 1001
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Sinema Tv 1002
+#EXTINF:-1,SİNEMA Tv 1002
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,FilmBox
+#EXTINF:-1,FILMBOX
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,MovieSmart Classic
+#EXTINF:-1,MOVIESMART CLASSIC
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,MovieSmart Türk
+#EXTINF:-1,MOVIESMART TÜRK
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,Dizi Smart Premium
+#EXTINF:-1,DİZİSMART PREMIUM
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,FX
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -55,18 +55,16 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-7
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,EXXEN TV
 https://vavoo.to/play/2963099947/index.m3u8
-#EXTINF:-1,Dizi Smart Max
+#EXTINF:-1,DİZİSMART MAX
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,beIN İZ
 https://vavoo.to/play/223700819/index.m3u8
-#EXTINF:-1,beIN H&E
-https://
 #EXTINF:-1,beIN GURME HD
 https://vavoo.to/play/2896186604/index.m3u8
-#EXTINF:-1,TRT 4K
-https://vavoo.to/play/1478418519/index.m3u8
 #EXTINF:-1,DIGITURK 4K
 https://vavoo.to/play/248348677/index.m3u8
+#EXTINF:-1,TRT 4K
+https://vavoo.to/play/1478418519/index.m3u8
 #EXTINF:-1,SHOW TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,TRT1 HD
