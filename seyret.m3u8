@@ -9,6 +9,8 @@ https://vavoo.to/play/2354756128/index.m3u8
 https://vavoo.to/play/715970015/index.m3u8
 #EXTINF:-1,beIN SERIES 2
 https://vavoo.to/play/1829547791/index.m3u8
+#EXTINF:-1,beIN BOX OFFICE HD
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,Sinema TV
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,Sinema TV 2
@@ -61,6 +63,10 @@ https://vavoo.to/play/223700819/index.m3u8
 https://
 #EXTINF:-1,beIN GURME HD
 https://vavoo.to/play/2896186604/index.m3u8
+#EXTINF:-1,TRT 4K
+https://vavoo.to/play/1478418519/index.m3u8
+#EXTINF:-1,DIGITURK 4K
+https://vavoo.to/play/248348677/index.m3u8
 #EXTINF:-1,SHOW TV HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,TRT1 HD
@@ -356,24 +362,4 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-7
 #EXTINF:-1,LOVE NATURE
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1,CGTN DOCUMENTARY HD
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,beIN BOX OFFICE HD
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TARAFTAR HD
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TARAFTAR 2 HD
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TARAFTAR 3 HD
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,TRT 4K
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,DIGITURK 4K
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,trt
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,trt
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,trt
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1,trt
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=66mfxx3wff0a&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
