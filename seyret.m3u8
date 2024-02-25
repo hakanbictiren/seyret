@@ -1,0 +1,6 @@
+#EXTM3U 
+x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="BELGESEL",Discovery HD
+http://xxx.com:25461/live/live:marco_cs_1/dxCsNPZKBt/68601.m3u8
+
