@@ -1,5 +1,6 @@
 #EXTM3U 
 x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 #PLAYLIST:ULUSAL
-#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 1" group-title="ULUSAL",TRT 1
+#EXTGRP:ULUSAL
+#EXTINF:-1 tvg-name="TRT 1",TRT 1
 http://iptv-area-51.tv:2095/yourusername...word/14246
