@@ -1,15 +1,47 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml",
-#EXTINF:-1,beIN MOVIES PREMIERE
+#EXTINF:-1,beIN MOVIES PREMIERE A
 https://vavoo.to/play/401080093/index.m3u8
-#EXTINF:-1,beIN MOVIES TURK
+#EXTINF:-1,beIN MOVIES PREMIERE B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES TURK A
 https://vavoo.to/play/3967568090/index.m3u8
-#EXTINF:-1,beIN MOVIES STARS
+#EXTINF:-1,beIN MOVIES TURK B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES STARS A
 https://vavoo.to/play/2354756128/index.m3u8
-#EXTINF:-1,beIN SERIES 1
+#EXTINF:-1,beIN MOVIES STARS B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES ACTION A
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES ACTION B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES FAMILY A
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN MOVIES FAMILY B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 1 A
 https://vavoo.to/play/715970015/index.m3u8
-#EXTINF:-1,beIN SERIES 2
+#EXTINF:-1,beIN SERIES 1 B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 2 A
 https://vavoo.to/play/1829547791/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE HD
+#EXTINF:-1,beIN SERIES 2 B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 3 A
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 3 B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 4 A
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN SERIES 4 B
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN BOX OFFICE 1
+https://vavoo.to/play/3085299930/index.m3u8
+#EXTINF:-1,beIN BOX OFFICE 2
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN BOX OFFICE 3
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,beIN BOX OFFICE TURK
 https://vavoo.to/play/3085299930/index.m3u8
 #EXTINF:-1,SİNEMA TV
 https://vavoo.to/play/2963562101/index.m3u8
@@ -33,10 +65,44 @@ https://vavoo.to/play/2104856524/index.m3u8
 https://vavoo.to/play/1625078434/index.m3u8
 #EXTINF:-1,DİZİSMART PREMIUM
 https://vavoo.to/play/1577754508/index.m3u8
-#EXTINF:-1,FX
-https://vavoo.to/play/3215880988/index.m3u8
 #EXTINF:-1,DİZİSMART MAX
 https://vavoo.to/play/3981022826/index.m3u8
+#EXTINF:-1,FX
+https://vavoo.to/play/3215880988/index.m3u8
+#EXTINF:-1,NAT GEO HD
+https://vavoo.to/play/127527075/index.m3u8
+#EXTINF:-1,beIN İZ
+https://vavoo.to/play/223700819/index.m3u8
+#EXTINF:-1,beIN GURME
+https://vavoo.to/play//index.m3u8
+#EXTINF:-1,BBC EARTH
+https://vavoo.to/play/450994880/index.m3u8
+#EXTINF:-1,TARİH TV
+https://vavoo.to/play/3319947436/index.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+https://vavoo.to/play/2553650389/index.m3u8
+#EXTINF:-1,YABAN TV
+https://vavoo.to/play/3036969304/index.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+https://vavoo.to/play/2120688368/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+https://vavoo.to/play/883795423/index.m3u8
+#EXTINF:-1,DISCOVERY ID
+https://vavoo.to/play/548469916/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://vavoo.to/play/623826547/index.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+https://vavoo.to/play/1914474193/index.m3u8
+#EXTINF:-1,TGRT Belgesel
+https://vavoo.to/play/202993730/index.m3u8
+#EXTINF:-1,HABİTAT
+https://vavoo.to/play/633716829/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+https://vavoo.to/play/2709926861/index.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+https://vavoo.to/play/2445146308/index.m3u8
+#EXTINF:-1,LOVE NATURE
+https://vavoo.to/play/707915133/index.m3u8
 #EXTINF:-1,TRT 4K
 https://vavoo.to/play/1478418519/index.m3u8
 #EXTINF:-1,SHOW TV HD
@@ -129,13 +195,7 @@ https://vavoo.to/play/437095535/index.m3u8
 https://vavoo.to/play/1308348418/index.m3u8
 #EXTINF:-1,DİYANET TV HD
 https://vavoo.to/play/69518403/index.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-https://vavoo.to/play/2123180255/index.m3u8
-#EXTINF:-1,EUROSPORT2 HD
-https://vavoo.to/play/959271439/index.m3u8
-#EXTINF:-1,FB TV
-https://vavoo.to/play/1464918460/index.m3u8
-#EXTINF:-1,DIGITURK 4K
+#EXTINF:-1,beIN SPORTS 4K
 https://vavoo.to/play/248348677/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 HD
 https://vavoo.to/play/3118029335/index.m3u8
@@ -161,14 +221,10 @@ https://vavoo.to/play/3367850126/index.m3u8
 https://vavoo.to/play/3516839408/index.m3u8
 #EXTINF:-1,EXXEN SPOR 2
 https://vavoo.to/play/2520698656/index.m3u8
-#EXTINF:-1,NBA TV
-https://vavoo.to/play/541816203/index.m3u8
-#EXTINF:-1,FIGHT NETWORK
-https://vavoo.to/play/284578909/index.m3u8
-#EXTINF:-1,TAY TV
-https://vavoo.to/play/3335706459/index.m3u8
-#EXTINF:-1,TJK TV
-https://vavoo.to/play/2048491472/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+https://vavoo.to/play/2123180255/index.m3u8
+#EXTINF:-1,EUROSPORT2 HD
+https://vavoo.to/play/959271439/index.m3u8
 #EXTINF:-1,SPOR SMART TV
 https://vavoo.to/play/312526367/index.m3u8
 #EXTINF:-1,SPOR SMART 2
@@ -183,6 +239,16 @@ https://vavoo.to/play/2003557447/index.m3u8
 https://vavoo.to/play/1242297847/index.m3u8
 #EXTINF:-1,TİVİBU SPOR 4
 https://vavoo.to/play/4163578343/index.m3u8
+#EXTINF:-1,FB TV
+https://vavoo.to/play/1464918460/index.m3u8
+#EXTINF:-1,NBA TV
+https://vavoo.to/play/541816203/index.m3u8
+#EXTINF:-1,FIGHT NETWORK
+https://vavoo.to/play/284578909/index.m3u8
+#EXTINF:-1,TAY TV
+https://vavoo.to/play/3335706459/index.m3u8
+#EXTINF:-1,TJK TV
+https://vavoo.to/play/2048491472/index.m3u8
 #EXTINF:-1,TRT SPOR HD
 https://vavoo.to/play/1577069584/index.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
@@ -191,7 +257,7 @@ https://vavoo.to/play/3102138058/index.m3u8
 https://vavoo.to/play/2910097515/index.m3u8
 #EXTINF:-1,SPORTS TV
 https://vavoo.to/play/1257759003/index.m3u8
-#EXTINF:-1,TRT MÜZİK HD
+#EXTINF:-1,TRT MÜZİK
 https://vavoo.to/play/234381128/index.m3u8
 #EXTINF:-1,DREAM TV
 https://vavoo.to/play/3806170849/index.m3u8
@@ -241,35 +307,3 @@ https://vavoo.to/play/69561833/index.m3u8
 https://vavoo.to/play/3314253522/index.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
 https://vavoo.to/play/518111020/index.m3u8
-#EXTINF:-1,NAT GEO HD
-https://vavoo.to/play/127527075/index.m3u8
-#EXTINF:-1,beIN İZ
-https://vavoo.to/play/223700819/index.m3u8
-#EXTINF:-1,BBC EARTH
-https://vavoo.to/play/450994880/index.m3u8
-#EXTINF:-1,TARİH TV
-https://vavoo.to/play/3319947436/index.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-https://vavoo.to/play/2553650389/index.m3u8
-#EXTINF:-1,YABAN TV
-https://vavoo.to/play/3036969304/index.m3u8
-#EXTINF:-1,TRT BELGESEL HD
-https://vavoo.to/play/2120688368/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-https://vavoo.to/play/883795423/index.m3u8
-#EXTINF:-1,DISCOVERY ID
-https://vavoo.to/play/548469916/index.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-https://vavoo.to/play/623826547/index.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-https://vavoo.to/play/1914474193/index.m3u8
-#EXTINF:-1,TGRT Belgesel
-https://vavoo.to/play/202993730/index.m3u8
-#EXTINF:-1,HABİTAT
-https://vavoo.to/play/633716829/index.m3u8
-#EXTINF:-1,VIASAT HISTORY
-https://vavoo.to/play/2709926861/index.m3u8
-#EXTINF:-1,VIASAT EXPLORE
-https://vavoo.to/play/2445146308/index.m3u8
-#EXTINF:-1,LOVE NATURE
-https://vavoo.to/play/707915133/index.m3u8
