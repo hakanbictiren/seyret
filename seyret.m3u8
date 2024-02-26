@@ -13,24 +13,14 @@ https://vavoo.to/play/1829547791/index.m3u8
 https://vavoo.to/play/3085299930/index.m3u8
 #EXTINF:-1,SİNEMA TV
 https://vavoo.to/play/2963562101/index.m3u8
-#EXTINF:-1,SİNEMA TV 2
-https://vavoo.to/play/449591453/index.m3u8
 #EXTINF:-1,SİNEMA TV AKSİYON
 https://vavoo.to/play/2788324814/index.m3u8
-#EXTINF:-1,SİNEMA TV AKSİYON 2
-https://vavoo.to/play/504288619/index.m3u8
 #EXTINF:-1,SİNEMA TV YERLİ
 https://vavoo.to/play/676291199/index.m3u8
-#EXTINF:-1,SİNEMA TV YERLİ 2
-https://vavoo.to/play/2987765375/index.m3u8
 #EXTINF:-1,SİNEMA TV AİLE
 https://vavoo.to/play/3486283754/index.m3u8
-#EXTINF:-1,SİNEMA TV AİLE 2
-https://vavoo.to/play/2288782650/index.m3u8
 #EXTINF:-1,SİNEMA TV KOMEDİ
 https://vavoo.to/play/1033468021/index.m3u8
-#EXTINF:-1,SİNEMA TV KOMEDİ 2
-https://vavoo.to/play/3664255020/index.m3u8
 #EXTINF:-1,SİNEMA TV 1001
 https://vavoo.to/play/2679131706/index.m3u8
 #EXTINF:-1,SİNEMA TV 1002
@@ -45,20 +35,8 @@ https://vavoo.to/play/1625078434/index.m3u8
 https://vavoo.to/play/1577754508/index.m3u8
 #EXTINF:-1,FX
 https://vavoo.to/play/3215880988/index.m3u8
-#EXTINF:-1,BLU PLAY 1
-https://vavoo.to/play/473147581/index.m3u8
-#EXTINF:-1,BLU PLAY 2
-https://vavoo.to/play/1536414317/index.m3u8
-#EXTINF:-1,EXXEN TV
-https://vavoo.to/play/2963099947/index.m3u8
 #EXTINF:-1,DİZİSMART MAX
 https://vavoo.to/play/3981022826/index.m3u8
-#EXTINF:-1,beIN İZ
-https://vavoo.to/play/223700819/index.m3u8
-#EXTINF:-1,beIN GURME HD
-https://vavoo.to/play/2896186604/index.m3u8
-#EXTINF:-1,DIGITURK 4K
-https://vavoo.to/play/248348677/index.m3u8
 #EXTINF:-1,TRT 4K
 https://vavoo.to/play/1478418519/index.m3u8
 #EXTINF:-1,SHOW TV HD
@@ -157,6 +135,8 @@ https://vavoo.to/play/2123180255/index.m3u8
 https://vavoo.to/play/959271439/index.m3u8
 #EXTINF:-1,FB TV
 https://vavoo.to/play/1464918460/index.m3u8
+#EXTINF:-1,DIGITURK 4K
+https://vavoo.to/play/248348677/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 HD
 https://vavoo.to/play/3118029335/index.m3u8
 #EXTINF:-1,beIN SPORTS 2 HD
