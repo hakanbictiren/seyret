@@ -1,55 +1,55 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml",
-#EXTINF:-1,beIN MOVIES PREMIERE A
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml, https://www.bevy.be/bevyfiles/turkey.xml"
+#EXTINF:-1,beIN MOVIES PREMIERE
 https://vavoo.to/play/401080093/index.m3u8
-#EXTINF:-1,beIN MOVIES PREMIERE B
+#EXTINF:-1,beIN MOVIES PREMIERE
 https://vavoo.to/play/1532930946/index.m3u8
-#EXTINF:-1,beIN MOVIES TURK A
+#EXTINF:-1,beIN MOVIES TURK
 https://vavoo.to/play/3967568090/index.m3u8
-#EXTINF:-1,beIN MOVIES TURK B
+#EXTINF:-1,beIN MOVIES TURK
 https://vavoo.to/play/2252952454/index.m3u8
-#EXTINF:-1,beIN MOVIES STARS A
+#EXTINF:-1,beIN MOVIES STARS
 https://vavoo.to/play/2354756128/index.m3u8
-#EXTINF:-1,beIN MOVIES STARS B
+#EXTINF:-1,beIN MOVIES STARS
 https://vavoo.to/play/4130654610/index.m3u8
-#EXTINF:-1,beIN MOVIES ACTION A
+#EXTINF:-1,beIN MOVIES ACTION
 https://vavoo.to/play/1567237954/index.m3u8
-#EXTINF:-1,beIN MOVIES ACTION B
+#EXTINF:-1,beIN MOVIES ACTION
 https://vavoo.to/play/1621541095/index.m3u8
-#EXTINF:-1,beIN MOVIES FAMILY A
+#EXTINF:-1,beIN MOVIES FAMILY
 https://vavoo.to/play/2799699841/index.m3u8
-#EXTINF:-1,beIN MOVIES FAMILY B
+#EXTINF:-1,beIN MOVIES FAMILY
 https://vavoo.to/play/2603409444/index.m3u8
-#EXTINF:-1,beIN SERIES 1 A
+#EXTINF:-1,beIN SERIES 1
 https://vavoo.to/play/715970015/index.m3u8
-#EXTINF:-1,beIN SERIES 1 B
+#EXTINF:-1,beIN SERIES 1
 https://vavoo.to/play/2822240809/index.m3u8
-#EXTINF:-1,beIN SERIES 2 A
+#EXTINF:-1,beIN SERIES 2
 https://vavoo.to/play/1829547791/index.m3u8
-#EXTINF:-1,beIN SERIES 2 B
+#EXTINF:-1,beIN SERIES 2
 https://vavoo.to/play/2824642873/index.m3u8
-#EXTINF:-1,beIN SERIES 3 A
+#EXTINF:-1,beIN SERIES 3
 https://vavoo.to/play/1349289663/index.m3u8
-#EXTINF:-1,beIN SERIES 3 B
+#EXTINF:-1,beIN SERIES 3
 https://vavoo.to/play/1714417218/index.m3u8
-#EXTINF:-1,beIN SERIES 4 A
+#EXTINF:-1,beIN SERIES 4
 https://vavoo.to/play/3796654767/index.m3u8
-#EXTINF:-1,beIN SERIES 4 B
+#EXTINF:-1,beIN SERIES 4
 https://vavoo.to/play/3062801999/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 1 A
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3085299930/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 1 B
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3448472424/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 2 A
+#EXTINF:-1,beIN BOX OFFICE 2
 https://vavoo.to/play/4031089162/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 2 B
+#EXTINF:-1,beIN BOX OFFICE 2
 https://vavoo.to/play/2318137784/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 3 A
+#EXTINF:-1,beIN BOX OFFICE 3
 https://vavoo.to/play/3441796026/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 3 B
+#EXTINF:-1,beIN BOX OFFICE 3
 https://vavoo.to/play/3075198984/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE TURK A
+#EXTINF:-1,beIN BOX OFFICE TURK
 https://vavoo.to/play/3067843656/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE TURK B
+#EXTINF:-1,beIN BOX OFFICE TURK
 https://vavoo.to/play/4200775895/index.m3u8
 #EXTINF:-1,SİNEMA TV
 https://vavoo.to/play/2963562101/index.m3u8
@@ -101,7 +101,7 @@ https://vavoo.to/play/548469916/index.m3u8
 https://vavoo.to/play/623826547/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL
 https://vavoo.to/play/1914474193/index.m3u8
-#EXTINF:-1,TGRT Belgesel
+#EXTINF:-1,TGRT BELGESEL
 https://vavoo.to/play/202993730/index.m3u8
 #EXTINF:-1,HABİTAT
 https://vavoo.to/play/633716829/index.m3u8
@@ -111,9 +111,9 @@ https://vavoo.to/play/2709926861/index.m3u8
 https://vavoo.to/play/2445146308/index.m3u8
 #EXTINF:-1,LOVE NATURE
 https://vavoo.to/play/707915133/index.m3u8
-#EXTINF:-1,TRT 4K A
+#EXTINF:-1,TRT 4K
 https://vavoo.to/play/1478418519/index.m3u8
-#EXTINF:-1,TRT 4K B
+#EXTINF:-1,TRT 4K
 https://vavoo.to/play/416826877/index.m3u8
 #EXTINF:-1,SHOW TV HD
 https://vavoo.to/play/4253374502/index.m3u8
@@ -205,59 +205,59 @@ https://vavoo.to/play/437095535/index.m3u8
 https://vavoo.to/play/1308348418/index.m3u8
 #EXTINF:-1,DİYANET TV HD
 https://vavoo.to/play/69518403/index.m3u8
-#EXTINF:-1,beIN SPORTS 4K A
+#EXTINF:-1,beIN SPORTS 4K
 https://vavoo.to/play/248348677/index.m3u8
-#EXTINF:-1,beIN SPORTS 4K B
+#EXTINF:-1,beIN SPORTS 4K
 https://vavoo.to/play/4292207208/index.m3u8
-#EXTINF:-1,beIN SPORTS 1 HD A
+#EXTINF:-1,beIN SPORTS 1 HD
 https://vavoo.to/play/3118029335/index.m3u8
-#EXTINF:-1,beIN SPORTS 1 HD B
+#EXTINF:-1,beIN SPORTS 1 HD
 https://vavoo.to/play/3773969966/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 HD A
+#EXTINF:-1,beIN SPORTS 2 HD
 https://vavoo.to/play/4269351111/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 HD B
+#EXTINF:-1,beIN SPORTS 2 HD
 https://vavoo.to/play/2807188734/index.m3u8
-#EXTINF:-1,beIN SPORTS 3 HD A
+#EXTINF:-1,beIN SPORTS 3 HD
 https://vavoo.to/play/3273197943/index.m3u8
-#EXTINF:-1,beIN SPORTS 3 HD B
+#EXTINF:-1,beIN SPORTS 3 HD
 https://vavoo.to/play/2586993998/index.m3u8
-#EXTINF:-1,beIN SPORTS 4 HD A
+#EXTINF:-1,beIN SPORTS 4 HD
 https://vavoo.to/play/1899615591/index.m3u8
-#EXTINF:-1,beIN SPORTS 4 HD B
+#EXTINF:-1,beIN SPORTS 4 HD
 https://vavoo.to/play/672315742/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 HD A
+#EXTINF:-1,beIN SPORTS 5 HD
 https://vavoo.to/play/1280965847/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 HD B
+#EXTINF:-1,beIN SPORTS 5 HD
 https://vavoo.to/play/359829742/index.m3u8
-#EXTINF:-1,beIN SPORTS MAX HD 1 A
+#EXTINF:-1,beIN SPORTS MAX HD 1
 https://vavoo.to/play/1367712343/index.m3u8
-#EXTINF:-1,beIN SPORTS MAX HD 1 B
+#EXTINF:-1,beIN SPORTS MAX HD 1
 https://vavoo.to/play/736874981/index.m3u8
-#EXTINF:-1,beIN SPORTS MAX HD 2 A
+#EXTINF:-1,beIN SPORTS MAX HD 2
 https://vavoo.to/play/1816898357/index.m3u8
-#EXTINF:-1,beIN SPORTS MAX HD 2 B
+#EXTINF:-1,beIN SPORTS MAX HD 2
 https://vavoo.to/play/1442970412/index.m3u8
-#EXTINF:-1,beIN SPORTS HABER HD
+#EXTINF:-1,beIN SPORTS HABER
 https://vavoo.to/play/1578612716/index.m3u8
-#EXTINF:-1,S SPORT A
+#EXTINF:-1,S SPORT
 https://vavoo.to/play/2934122671/index.m3u8
-#EXTINF:-1,S SPORT B
+#EXTINF:-1,S SPORT
 https://vavoo.to/play/2155478922/index.m3u8
-#EXTINF:-1,S SPORT 2 A
+#EXTINF:-1,S SPORT 2
 https://vavoo.to/play/3367850126/index.m3u8
-#EXTINF:-1,S SPORT 2 B
+#EXTINF:-1,S SPORT 2
 https://vavoo.to/play/2573123488/index.m3u8
-#EXTINF:-1,EXXEN TV A
+#EXTINF:-1,EXXEN TV
 https://vavoo.to/play/2963099947/index.m3u8
-#EXTINF:-1,EXXEN TV B
+#EXTINF:-1,EXXEN TV
 https://vavoo.to/play/1248681511/index.m3u8
-#EXTINF:-1,EXXEN SPOR A
+#EXTINF:-1,EXXEN SPOR
 https://vavoo.to/play/3516839408/index.m3u8
-#EXTINF:-1,EXXEN SPOR B
+#EXTINF:-1,EXXEN SPOR
 https://vavoo.to/play/2900836470/index.m3u8
-#EXTINF:-1,EXXEN SPOR 2 A
+#EXTINF:-1,EXXEN SPOR 2
 https://vavoo.to/play/2520698656/index.m3u8
-#EXTINF:-1,EXXEN SPOR 2 B
+#EXTINF:-1,EXXEN SPOR 2
 https://vavoo.to/play/577259413/index.m3u8
 #EXTINF:-1,EUROSPORT 1 HD
 https://vavoo.to/play/2123180255/index.m3u8
@@ -315,7 +315,7 @@ https://vavoo.to/play/3849026985/index.m3u8
 https://vavoo.to/play/3366319210/index.m3u8
 #EXTINF:-1,TMB TV
 https://vavoo.to/play/3673167668/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1,KRAL TV
 https://vavoo.to/play/2823591118/index.m3u8
 #EXTINF:-1,TRT ÇOCUK HD
 https://vavoo.to/play/2920526532/index.m3u8
