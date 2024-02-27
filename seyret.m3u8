@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml, https://www.bevy.be/bevyfiles/turkey.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml"
 #EXTINF:-1,beIN MOVIES PREMIERE
 https://vavoo.to/play/401080093/index.m3u8
 #EXTINF:-1,beIN MOVIES PREMIERE
@@ -39,17 +39,17 @@ https://vavoo.to/play/3062801999/index.m3u8
 https://vavoo.to/play/3085299930/index.m3u8
 #EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3448472424/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 2
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/4031089162/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 2
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/2318137784/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 3
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3441796026/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE 3
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3075198984/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE TURK
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/3067843656/index.m3u8
-#EXTINF:-1,beIN BOX OFFICE TURK
+#EXTINF:-1,beIN BOX OFFICE 1
 https://vavoo.to/play/4200775895/index.m3u8
 #EXTINF:-1,SİNEMA TV
 https://vavoo.to/play/2963562101/index.m3u8
@@ -59,55 +59,55 @@ https://vavoo.to/play/2788324814/index.m3u8
 https://vavoo.to/play/676291199/index.m3u8
 #EXTINF:-1,SİNEMA TV AİLE
 https://vavoo.to/play/3486283754/index.m3u8
-#EXTINF:-1,SİNEMA TV KOMEDİ
+#EXTINF:-1,SİNEMA TV COMEDİ
 https://vavoo.to/play/1033468021/index.m3u8
 #EXTINF:-1,SİNEMA TV 1001
 https://vavoo.to/play/2679131706/index.m3u8
 #EXTINF:-1,SİNEMA TV 1002
 https://vavoo.to/play/3624940778/index.m3u8
-#EXTINF:-1,FILMBOX
+#EXTINF:-1,FİLMBOX
 https://vavoo.to/play/3541588802/index.m3u8
-#EXTINF:-1,MOVIESMART CLASSIC
+#EXTINF:-1,MOVİESMART CLASSİC
 https://vavoo.to/play/2104856524/index.m3u8
-#EXTINF:-1,MOVIESMART TÜRK
+#EXTINF:-1,MOVİESMART TÜRK
 https://vavoo.to/play/1625078434/index.m3u8
-#EXTINF:-1,DİZİSMART PREMIUM
+#EXTINF:-1,DİZİ SMART PREMİUM
 https://vavoo.to/play/1577754508/index.m3u8
-#EXTINF:-1,DİZİSMART MAX
+#EXTINF:-1,DİZİ SMART MAX
 https://vavoo.to/play/3981022826/index.m3u8
 #EXTINF:-1,FX
 https://vavoo.to/play/3215880988/index.m3u8
-#EXTINF:-1,NAT GEO HD
+#EXTINF:-1,NATİONAL GEOGRAPHİC HD
 https://vavoo.to/play/127527075/index.m3u8
 #EXTINF:-1,beIN İZ
 https://vavoo.to/play/223700819/index.m3u8
 #EXTINF:-1,beIN GURME
 https://vavoo.to/play/2896186604/index.m3u8
-#EXTINF:-1,BBC EARTH
+#EXTINF:-1,BBC EARTH HD
 https://vavoo.to/play/450994880/index.m3u8
-#EXTINF:-1,TARİH TV
+#EXTINF:-1,TARİH TV HD
 https://vavoo.to/play/3319947436/index.m3u8
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1,NAT GEO WİLD HD
 https://vavoo.to/play/2553650389/index.m3u8
 #EXTINF:-1,YABAN TV
 https://vavoo.to/play/3036969304/index.m3u8
 #EXTINF:-1,TRT BELGESEL HD
 https://vavoo.to/play/2120688368/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1,DİSCOVERY CHANNEL HD
 https://vavoo.to/play/883795423/index.m3u8
-#EXTINF:-1,DISCOVERY ID
+#EXTINF:-1,DİSCOVERY
 https://vavoo.to/play/548469916/index.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1,DİSCOVERY SCİENCE HD
 https://vavoo.to/play/623826547/index.m3u8
-#EXTINF:-1,HISTORY CHANNEL
+#EXTINF:-1,HİSTORY CHANNEL
 https://vavoo.to/play/1914474193/index.m3u8
 #EXTINF:-1,TGRT BELGESEL
 https://vavoo.to/play/202993730/index.m3u8
 #EXTINF:-1,HABİTAT
 https://vavoo.to/play/633716829/index.m3u8
-#EXTINF:-1,VIASAT HISTORY
+#EXTINF:-1,VİASAT HİSTORY
 https://vavoo.to/play/2709926861/index.m3u8
-#EXTINF:-1,VIASAT EXPLORE
+#EXTINF:-1,VİASAT EXPLORE
 https://vavoo.to/play/2445146308/index.m3u8
 #EXTINF:-1,LOVE NATURE
 https://vavoo.to/play/707915133/index.m3u8
@@ -117,17 +117,17 @@ https://vavoo.to/play/1478418519/index.m3u8
 https://vavoo.to/play/416826877/index.m3u8
 #EXTINF:-1,SHOW TV HD
 https://vavoo.to/play/4253374502/index.m3u8
-#EXTINF:-1,TRT1 HD
+#EXTINF:-1,TRT 1 HD
 https://vavoo.to/play/173779666/index.m3u8
 #EXTINF:-1,KANAL D HD
 https://vavoo.to/play/2123355945/index.m3u8
-#EXTINF:-1,ATV HD
+#EXTINF:-1,ATV
 https://vavoo.to/play/1588577868/index.m3u8
-#EXTINF:-1,NOW HD
+#EXTINF:-1,FOX HD
 https://vavoo.to/play/1294578939/index.m3u8
-#EXTINF:-1,STAR HD
+#EXTINF:-1,STAR TV HD
 https://vavoo.to/play/1077275830/index.m3u8
-#EXTINF:-1,TV 8 HD
+#EXTINF:-1,TV8 HD
 https://vavoo.to/play/3757924718/index.m3u8
 #EXTINF:-1,360 HD
 https://vavoo.to/play/1981164530/index.m3u8
@@ -151,83 +151,81 @@ https://vavoo.to/play/3954717835/index.m3u8
 https://vavoo.to/play/4191300227/index.m3u8
 #EXTINF:-1,ÜLKE TV HD
 https://vavoo.to/play/2516198031/index.m3u8
-#EXTINF:-1,TV NET HD
+#EXTINF:-1,TVNET HD
 https://vavoo.to/play/3568289726/index.m3u8
-#EXTINF:-1,24 HD
+#EXTINF:-1,KANAL 24 HD
 https://vavoo.to/play/2418076530/index.m3u8
 #EXTINF:-1,NTV HD
 https://vavoo.to/play/2833757861/index.m3u8
 #EXTINF:-1,CNN TÜRK HD
 https://vavoo.to/play/950381894/index.m3u8
-#EXTINF:-1,A PARA
+#EXTINF:-1,A PARA HD
 https://vavoo.to/play/4057317388/index.m3u8
-#EXTINF:-1,HABERTÜRK HD
+#EXTINF:-1,HABERTURK HD
 https://vavoo.to/play/163885398/index.m3u8
-#EXTINF:-1,TGRT HABER
+#EXTINF:-1,TGRT HABER HD
 https://vavoo.to/play/492502769/index.m3u8
-#EXTINF:-1,EKOTURK
+#EXTINF:-1,EKOTURK TV HD
 https://vavoo.to/play/772253164/index.m3u8
 #EXTINF:-1,HABER GLOBAL HD
 https://vavoo.to/play/2064080655/index.m3u8
-#EXTINF:-1,TELE1
+#EXTINF:-1,TELE 1 HD
 https://vavoo.to/play/3444195024/index.m3u8
 #EXTINF:-1,DMAX HD
 https://vavoo.to/play/2617586627/index.m3u8
-#EXTINF:-1,FLASH HABER HD
+#EXTINF:-1,FLASH HABER TV
 https://vavoo.to/play/841076531/index.m3u8
 #EXTINF:-1,ULUSAL TV
 https://vavoo.to/play/3686895386/index.m3u8
 #EXTINF:-1,HALK TV
 https://vavoo.to/play/2665359554/index.m3u8
-#EXTINF:-1,TEVE 2 HD
+#EXTINF:-1,TEVE2 HD
 https://vavoo.to/play/1737583075/index.m3u8
-#EXTINF:-1,TV8,5
+#EXTINF:-1,TV 8,5
 https://vavoo.to/play/2641789899/index.m3u8
-#EXTINF:-1,TRT 3 SPOR
+#EXTINF:-1,TRT 3 - TRT SPOR
 https://vavoo.to/play/1372778025/index.m3u8
 #EXTINF:-1,TRT AVAZ
 https://vavoo.to/play/154404301/index.m3u8
 #EXTINF:-1,TRT KURDİ
 https://vavoo.to/play/3669018421/index.m3u8
-#EXTINF:-1,TÜRK HABER TV
-https://vavoo.to/play/3755426694/index.m3u8
-#EXTINF:-1,SÖZCÜ TV
+#EXTINF:-1,SZC TV
 https://vavoo.to/play/1021588009/index.m3u8
-#EXTINF:-1,TRT TÜRK
+#EXTINF:-1,TRT TURK
 https://vavoo.to/play/3561352728/index.m3u8
 #EXTINF:-1,KRT TV HD
 https://vavoo.to/play/1447438719/index.m3u8
-#EXTINF:-1,BENGÜ TÜRK TV
+#EXTINF:-1,BENGÜTÜRK TV
 https://vavoo.to/play/3484027240/index.m3u8
-#EXTINF:-1,TV 4
+#EXTINF:-1,TV4
 https://vavoo.to/play/437095535/index.m3u8
 #EXTINF:-1,TRT 2 HD
 https://vavoo.to/play/1308348418/index.m3u8
 #EXTINF:-1,DİYANET TV HD
 https://vavoo.to/play/69518403/index.m3u8
-#EXTINF:-1,beIN SPORTS 4K
+#EXTINF:-1,DİGİTURK 4K
 https://vavoo.to/play/248348677/index.m3u8
-#EXTINF:-1,beIN SPORTS 4K
+#EXTINF:-1,DİGİTURK 4K
 https://vavoo.to/play/4292207208/index.m3u8
-#EXTINF:-1,beIN SPORTS 1 HD
+#EXTINF:-1,beIN SPORTS 1
 https://vavoo.to/play/3118029335/index.m3u8
-#EXTINF:-1,beIN SPORTS 1 HD
+#EXTINF:-1,beIN SPORTS 1
 https://vavoo.to/play/3773969966/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 HD
+#EXTINF:-1,beIN SPORTS 2
 https://vavoo.to/play/4269351111/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 HD
+#EXTINF:-1,beIN SPORTS 2
 https://vavoo.to/play/2807188734/index.m3u8
-#EXTINF:-1,beIN SPORTS 3 HD
+#EXTINF:-1,beIN SPORTS 3
 https://vavoo.to/play/3273197943/index.m3u8
-#EXTINF:-1,beIN SPORTS 3 HD
+#EXTINF:-1,beIN SPORTS 3
 https://vavoo.to/play/2586993998/index.m3u8
-#EXTINF:-1,beIN SPORTS 4 HD
+#EXTINF:-1,beIN SPORTS 4
 https://vavoo.to/play/1899615591/index.m3u8
-#EXTINF:-1,beIN SPORTS 4 HD
+#EXTINF:-1,beIN SPORTS 4
 https://vavoo.to/play/672315742/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 HD
+#EXTINF:-1,beIN SPORTS 5
 https://vavoo.to/play/1280965847/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 HD
+#EXTINF:-1,beIN SPORTS 5
 https://vavoo.to/play/359829742/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX HD 1
 https://vavoo.to/play/1367712343/index.m3u8
@@ -261,9 +259,9 @@ https://vavoo.to/play/2520698656/index.m3u8
 https://vavoo.to/play/577259413/index.m3u8
 #EXTINF:-1,EUROSPORT 1 HD
 https://vavoo.to/play/2123180255/index.m3u8
-#EXTINF:-1,EUROSPORT2 HD
+#EXTINF:-1,EUROSPORT 2 HD
 https://vavoo.to/play/959271439/index.m3u8
-#EXTINF:-1,SPOR SMART TV
+#EXTINF:-1,SPOR SMART
 https://vavoo.to/play/312526367/index.m3u8
 #EXTINF:-1,SPOR SMART 2
 https://vavoo.to/play/1808436490/index.m3u8
@@ -277,11 +275,11 @@ https://vavoo.to/play/2003557447/index.m3u8
 https://vavoo.to/play/1242297847/index.m3u8
 #EXTINF:-1,TİVİBU SPOR 4
 https://vavoo.to/play/4163578343/index.m3u8
-#EXTINF:-1,FB TV
+#EXTINF:-1,FB TV HD
 https://vavoo.to/play/1464918460/index.m3u8
 #EXTINF:-1,NBA TV
 https://vavoo.to/play/541816203/index.m3u8
-#EXTINF:-1,FIGHT NETWORK
+#EXTINF:-1,FIGHTSCREEN
 https://vavoo.to/play/284578909/index.m3u8
 #EXTINF:-1,TAY TV
 https://vavoo.to/play/3335706459/index.m3u8
@@ -297,51 +295,37 @@ https://vavoo.to/play/2910097515/index.m3u8
 https://vavoo.to/play/1257759003/index.m3u8
 #EXTINF:-1,TRT MÜZİK
 https://vavoo.to/play/234381128/index.m3u8
-#EXTINF:-1,DREAM TV
-https://vavoo.to/play/3806170849/index.m3u8
 #EXTINF:-1,DREAM TÜRK
 https://vavoo.to/play/1396854029/index.m3u8
-#EXTINF:-1,POWERTURK
-https://vavoo.to/play/2730336389/index.m3u8
 #EXTINF:-1,POWER TV
 https://vavoo.to/play/2046059878/index.m3u8
-#EXTINF:-1,NR1 TV
-https://vavoo.to/play/843163289/index.m3u8
-#EXTINF:-1,NR1 TURK
-https://vavoo.to/play/3166285985/index.m3u8
-#EXTINF:-1,NR1 AŞK
-https://vavoo.to/play/3849026985/index.m3u8
-#EXTINF:-1,NR1 DAMAR
-https://vavoo.to/play/3366319210/index.m3u8
-#EXTINF:-1,TMB TV
+#EXTINF:-1,TMB
 https://vavoo.to/play/3673167668/index.m3u8
-#EXTINF:-1,KRAL TV
-https://vavoo.to/play/2823591118/index.m3u8
-#EXTINF:-1,TRT ÇOCUK HD
+#EXTINF:-1,TRT ÇOCUK
 https://vavoo.to/play/2920526532/index.m3u8
-#EXTINF:-1,BBC CbeeBies HD
+#EXTINF:-1,CBEEBIES HD
 https://vavoo.to/play/749082576/index.m3u8
-#EXTINF:-1,BABY TV HD
+#EXTINF:-1,BABY TV
 https://vavoo.to/play/2318245250/index.m3u8
-#EXTINF:-1,DA VINCI LEARNING HD
+#EXTINF:-1,DA VINCI
 https://vavoo.to/play/2743029763/index.m3u8
-#EXTINF:-1,DISNEY J.R
+#EXTINF:-1,DISNEY JUNİOR
 https://vavoo.to/play/1015595361/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 https://vavoo.to/play/3631387435/index.m3u8
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1,CARTOONİTO
 https://vavoo.to/play/1905279471/index.m3u8
 #EXTINF:-1,ÇOCUK SMART
 https://vavoo.to/play/763933240/index.m3u8
 #EXTINF:-1,MOONBUG
 https://vavoo.to/play/2970943369/index.m3u8
-#EXTINF:-1,MİNİKA GO
+#EXTINF:-1,MİNİKAGO
 https://vavoo.to/play/775030771/index.m3u8
-#EXTINF:-1,NICK JR
+#EXTINF:-1,NICK JR.
 https://vavoo.to/play/3794199300/index.m3u8
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1,NİCKELODEON
 https://vavoo.to/play/69561833/index.m3u8
-#EXTINF:-1,NICK TOONS
+#EXTINF:-1,NİCKELODEON HD
 https://vavoo.to/play/3314253522/index.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
 https://vavoo.to/play/518111020/index.m3u8
