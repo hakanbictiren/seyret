@@ -1,24 +1,23 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
-#EXTGRP:Ulusal
 #EXTINF:-1 group-title="Film&Dizi",beIN MOVIES PREMIERE 
 https://huhu.to/play/401080093/index.m3u8
-#EXTINF:-1,beIN MOVIES PREMIERE
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES PREMIERE
 https://huhu.to/play/1532930946/index.m3u8
-#EXTINF:-1,beIN MOVIES TURK
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES TURK
 https://huhu.to/play/3967568090/index.m3u8
-#EXTINF:-1,beIN MOVIES TURK
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES TURK
 https://huhu.to/play/2252952454/index.m3u8
-#EXTINF:-1,beIN MOVIES STARS
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES STARS
 https://huhu.to/play/2354756128/index.m3u8
-#EXTINF:-1,beIN MOVIES STARS
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES STARS
 https://huhu.to/play/4130654610/index.m3u8
-#EXTINF:-1,beIN MOVIES ACTION
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES ACTION
 https://huhu.to/play/1567237954/index.m3u8
-#EXTINF:-1,beIN MOVIES ACTION
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES ACTION
 https://huhu.to/play/1621541095/index.m3u8
-#EXTINF:-1,beIN MOVIES FAMILY
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES FAMILY
 https://huhu.to/play/2799699841/index.m3u8
-#EXTINF:-1,beIN MOVIES FAMILY
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES FAMILY
 https://huhu.to/play/2603409444/index.m3u8
 #EXTINF:-1,beIN SERIES 1
 https://huhu.to/play/715970015/index.m3u8
