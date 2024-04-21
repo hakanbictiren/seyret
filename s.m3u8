@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
-#EXTINF:-1,beIN MOVIES PREMIERE, group-title="Film&Dizi"
+#EXTGRP:Ulusal
+#EXTINF:-1 group-title="Film&Dizi",beIN MOVIES PREMIERE 
 https://huhu.to/play/401080093/index.m3u8
 #EXTINF:-1,beIN MOVIES PREMIERE
 https://huhu.to/play/1532930946/index.m3u8
