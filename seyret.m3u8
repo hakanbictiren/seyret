@@ -1,959 +1,496 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
-#EXTINF:-1 tvg-name="Meclis TV"tvg-id="TBMM"tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png"group-title="TRT":http-referrer="":http-user-agent="",Meclis TV
+#EXTM3U
+
+# * » TRT « * #
+#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="TRT":http-referrer="":http-user-agent="",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT_2"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png"group-title="TRT":http-referrer="":http-user-agent="",TRT 2
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRT_Turk"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Türk
+
+#EXTINF:-1 tvg-name="TRT Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="TRT",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz"tvg-id="TRT_Avaz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Avaz
+
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Kürdi"tvg-id="TRT_Kurdi"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Kürdi
+
+#EXTINF:-1 tvg-name="TRT Kürdi" tvg-language="Kurdish" tvg-country="IR" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="TRT",TRT Kürdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRT_Arabi"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Arabi
+
+#EXTINF:-1 tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="SA" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="TRT",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT World"tvg-id="TRT_World"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png"group-title="TRT":http-referrer="":http-user-agent="",TRT World
+
+#EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="TRT",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="A Spor "tvg-id="A_Spor "tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/video/i/logo.png"group-title="Spor ":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",A Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://cinque.7fb7a3c9b851c072.click/p/f2XX9QypRVkLXdLRpLS/172/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TRT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayintrtspor.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89084
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-name="FB TV"tvg-id="Spor_FBTV"tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png"group-title="Spor":http-referrer="":http-user-agent="",FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://uno.7fb7a3c9b851c072.click/p/f2XX9QypRVkLXdLRpLS/112/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Euro Sport"tvg-id="Spor_EuroSport"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayineu1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2"tvg-id="Spor_EuroSport2"tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.7fb7a3c9b851c072.click/p/selcuksportshd1473.xyz/142/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://3.trgoalshls97.shop/yayint1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2"tvg-id="Spor_TivibuSpor2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tivibu-spor-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3"tvg-id="Spor_TivibuSpor3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4"tvg-id="Spor_TivibuSpor4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tivibu-spor-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Spor Smart"tvg-id="Spor_SporSmart"tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.7fb7a3c9b851c072.click/p/selcuksportshd1473.xyz/102/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2"tvg-id="Spor_SporSmart2"tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayinsms2.m3u8
-#EXTINF:-1 tvg-name="S SPORT"tvg-id="Spor_SSPORT"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport/playlist.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="Spor_SSPORT2"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport-2/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="24TV.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="24TV.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="24TV.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.trgoalshls95.shop/yayin1.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 1 HD"tvg-id="beinsports1.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/77238
-#EXTINF:-1 tvg-name="beIN SPORTS 1 [ HD ]"tvg-id="beinsports1.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/89
-#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="Spor_beINSPORTS2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/602/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="Spor_beINSPORTS2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-427b334edfe38181.workers.dev/live/beinsports-2/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2 [ HD ] [Europe ]"tvg-id=""tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayinb2.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 2 [ FHD ]"tvg-id=""tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://3.trgoalshls97.shop/yayinb2.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayinb3.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4"tvg-id="Spor_beINSPORTS4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/604/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5"tvg-id="Spor_beINSPORTS5"tvg-logo="https://i.imgur.com/iRKfaee.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://1.zirvedeyim28.cfd/yayinb5.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max"tvg-id="Spor_beINSPORTSMax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.7fb7a3c9b851c072.click/p/selcuksportshd1473.xyz/805/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max 2"tvg-id="Spor_beINSPORTSMax2"tvg-logo="https://i.imgur.com/t7U20yR.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.7fb7a3c9b851c072.click/p/selcuksportshd1473.xyz/806/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor  FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/sz3c49o.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor  FHD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/104336
-#EXTINF:-1 tvg-name="Tabii Spor 1 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/g47c3yg.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 1 FHD
-https://cdn.srectv2.xyz/live/tabi1/index.m3u8?token=cTSNX1dc9kooDPSJ5jLhPg&tms=1730748220
-#EXTINF:-1 tvg-name="Tabii Spor 2 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/g47c3yg.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 2 FHD
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/255107
-#EXTINF:-1 tvg-name="Tabii Spor 3 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/5ehq09i.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 3 FHD
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/255106
-#EXTINF:-1 tvg-name="Tabii Spor 4 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/8wnne92.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 4 FHD
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/255105
-#EXTINF:-1 tvg-name="Tabii Spor 5 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/mtuexei.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 5 FHD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/103842
-#EXTINF:-1 tvg-name="Tabii Spor 6 FHD"tvg-id=""tvg-logo="https://i.hizliresim.com/qhniszr.png"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor 6 FHD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/103843
-#EXTINF:-1 tvg-name="EXXEN "tvg-id="Spor_EXXEN"tvg-logo="https://play-lh.googleusercontent.com/iLiuTI58upyx6l3mhOpk6HFZr0Cb3xPIhQEcIyMmVraplcbdVRfm0L8lxql2t9g5Yw"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",EXXEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://uno.53bcc5ec13d72fd5.click/p/f2XX9QypRAJk2xigZd4/4011/a.cf-worker-bdc7813512eed06f.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="Muzik_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png"group-title="Müzik":http-referrer="":http-user-agent="",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Dream Türk"tvg-id="Muzik_DreamTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd"group-title="Müzik":http-referrer="":http-user-agent="",Dream Türk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=kJ2L0YrhztHFfWGcZlAMVg&e=1725923580
-#EXTINF:-1 tvg-name="Kral Pop"tvg-id="Muzik_KralPop"tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"group-title="Müzik":http-referrer="":http-user-agent="",Kral Pop
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="NumberOne Türk"tvg-id="Muzik_NumberOneTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377"group-title="Müzik":http-referrer="":http-user-agent="",NumberOne Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NumberOne Aşk"tvg-id="Muzik_NumberOneAsk"tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"group-title="Müzik":http-referrer="":http-user-agent="",NumberOne Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop"tvg-id="Muzik_VevoPop"tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"group-title="Müzik":http-referrer="":http-user-agent="",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-#EXTINF:-1 tvg-name="Almanya TV"tvg-id=""tvg-logo="http://assets.tvcdn.net/57fd67c8-f4e4-4516-a2de-68325d438b1a.png"group-title="Müzik":http-referrer="":http-user-agent="http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8",Almanya TV
-#EXTVLCOPT:http-user-agent=http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
-http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="Haber_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
+
+
+
+# * » Haber « * #
+#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
+
+#EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="CNN Türk"tvg-id="Haber_CNNTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500"group-title="Haber":http-referrer="":http-user-agent="",CNN Türk
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/149
-#EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/151
-#EXTINF:-1 tvg-name="A Haber"tvg-id="Haber_AHaber"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="Haber":http-referrer="":http-user-agent="",A Haber
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89101
-#EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
-https://api1.canlitvplayer.com/haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="Kanal 24"tvg-id="Haber_Kanal24"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
+
+#EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
+http://69973.unimaster.us:80/VedatSrli34/121idsub52/139
+# ? https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+
+
+#EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 24" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-name="TV 100"tvg-id="Haber_TV100"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="Haber":http-referrer="":http-user-agent="",TV 100
+
+#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal
+https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+
+#EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-#EXTINF:-1 tvg-name="Tele 1"tvg-id="Haber_Tele1"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528"group-title="Haber":http-referrer="":http-user-agent="",Tele 1
-https://api1.canlitvplayer.com/tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="Haber_TGRT"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f"group-title="Haber":http-referrer="":http-user-agent="",TGRT Haber
+
+#EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
+https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 tvg-name="KRT TV"tvg-id="Haber_KRTTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8"group-title="Haber":http-referrer="":http-user-agent="",KRT TV
-https://api1.canlitvplayer.com/krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:-1 tvg-name="Sözcü TV"tvg-id="Haber_SozcuTV"tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg"group-title="Haber":http-referrer="":http-user-agent="",Sözcü TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8?token=3KfbU-cgMqv5kJTh9eoAiw&tms=1732137731
-#EXTINF:-1 tvg-name="Halk TV"tvg-id="Haber_HalkTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5"group-title="Haber":http-referrer="":http-user-agent="",Halk TV
+
+#EXTINF:-1 tvg-name="KRT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
+https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+
+#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="Haber_BloombergHT"tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk"group-title="Haber":http-referrer="":http-user-agent="",Bloomberg HT
+
+#EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_BloombergHT" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" group-title="Haber",Bloomberg HT
 https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-#EXTINF:-1 tvg-name="Star TV"tvg-id="Genel_StarTV"tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp"group-title="Genel":http-referrer="":http-user-agent="",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="ATV"tvg-id="Genel_ATV"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"group-title="Genel":http-referrer="":http-user-agent="",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-name="Now TV"tvg-id="Genel_FoxTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"group-title="Genel":http-referrer="":http-user-agent="",Now TV
-https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Show TV"tvg-id="Genel_ShowTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"group-title="Genel":http-referrer="":http-user-agent="",Show TV
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/42
-#EXTINF:-1 tvg-name="TV 8"tvg-id="Genel_TV8"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="Genel":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tv8/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8.5 "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-vaIq06Du-qfHHBi-NyA37lxaTCOYv3CBl093Hm42IetGFzWtDxZxs3MScfHCBczf26Ldlj2=s900-c-k-c0x00ffffff-no-rj"group-title="Genel":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TV 8.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tv85/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="Genel_KanalD"tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png"group-title="Genel":http-referrer="":http-user-agent="",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="Beyaz TV"tvg-id="Genel_BeyazTV"tvg-logo="https://www.beyaztv.com.tr/images/logo.png"group-title="Genel":http-referrer="":http-user-agent="",Beyaz TV
-https://api1.canlitvplayer.com/beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="Teve2"tvg-id="Genel_Teve2"tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Genel":http-referrer="":http-user-agent="",Teve2
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/19
-#EXTINF:-1 tvg-name="Kanal 7"tvg-id="Genel_Kanal7"tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png"group-title="Genel":http-referrer="":http-user-agent="",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="Fashion TV"tvg-id="Genel_FashionTV"tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM"group-title="Genel":http-referrer="":http-user-agent="",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion Film"tvg-id="Genel_FashionFilm"tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g"group-title="Genel":http-referrer="":http-user-agent="",Fashion Film
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/308
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-name="MinikaGo"tvg-id="CizgiFilm_MinikaGo"tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",MinikaGo
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/304
-#EXTINF:-1 tvg-name="Minika Çocuk"tvg-id="CizgiFilm_MinikaCocuk"tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Minika Çocuk
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89195
-#EXTINF:-1 tvg-name="Cartoonito TV"tvg-id="CizgiFilm_CartoonitoTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoonito TV
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/15020
-#EXTINF:-1 tvg-name="TR:NICK JR HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickjr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TR:NICK JR HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89192
-#EXTINF:-1 tvg-name="TR:NICKELODEON HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickelodeon.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TR:NICKELODEON HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89193
-#EXTINF:-1 tvg-name="TR:NICKTOONS HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/nicktoons.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TR:NICKTOONS HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90692
-#EXTINF:-1 tvg-name="Cizgi Film TV"tvg-id=""tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cizgi Film TV
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
-#EXTINF:-1 tvg-name="G PLUS - POWER RANGERS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/power-rangers-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - POWER RANGERS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/83046
-#EXTINF:-1 tvg-name="G PLUS - KAMYON LEO"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/kamyon-leo-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - KAMYON LEO
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/78753
-#EXTINF:-1 tvg-name="G PLUS - REGULAR SHOW"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/regular-show-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - REGULAR SHOW
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/77974
-#EXTINF:-1 tvg-name="G PLUS - ADVENTURE TIME"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/adventure-time-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - ADVENTURE TIME
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/77975
-#EXTINF:-1 tvg-name="G PLUS - BEN 10"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/ben-10-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - BEN 10
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/77976
-#EXTINF:-1 tvg-name="G PLUS - GUMBALL"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/gumball-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - GUMBALL
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/77977
-#EXTINF:-1 tvg-name="G PLUS - NETFLIX COCUK 1"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/netflix-cocuk-1-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NETFLIX COCUK 1
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74559
-#EXTINF:-1 tvg-name="G PLUS - NETFLIX COCUK 2"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/netflix-cocuk-2-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NETFLIX COCUK 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74560
-#EXTINF:-1 tvg-name="G PLUS - NETFLIX COCUK 3"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/netflix-cocuk-3-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NETFLIX COCUK 3
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74561
-#EXTINF:-1 tvg-name="G PLUS - NETFLIX COCUK 4"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/netflix-cocuk-4-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NETFLIX COCUK 4
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74562
-#EXTINF:-1 tvg-name="G PLUS - NETFLIX COCUK 5"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/netflix-cocuk-5-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NETFLIX COCUK 5
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74563
-#EXTINF:-1 tvg-name="G PLUS - RAFADAN TAYFA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/rafadan-tayfa-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - RAFADAN TAYFA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74762
-#EXTINF:-1 tvg-name="G PLUS - PEPEE"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/pepee-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PEPEE
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74603
-#EXTINF:-1 tvg-name="G PLUS - NILOYA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/niloya-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NILOYA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74602
-#EXTINF:-1 tvg-name="G PLUS - YILDIZ KIZ"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/yildiz-kiz-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - YILDIZ KIZ
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71665
-#EXTINF:-1 tvg-name="G PLUS - WAKFU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/wakfu.tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - WAKFU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71638
-#EXTINF:-1 tvg-name="G PLUS - TROL AVCILARI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/trol.avcilari.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - TROL AVCILARI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71641
-#EXTINF:-1 tvg-name="G PLUS - TRANSFORMERS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/transformers.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - TRANSFORMERS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71642
-#EXTINF:-1 tvg-name="G PLUS - THE LEGEND OF KORRA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/legend.korra.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - THE LEGEND OF KORRA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71668
-#EXTINF:-1 tvg-name="G PLUS - TALKING TOM"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/tom.talking.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - TALKING TOM
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71669
-#EXTINF:-1 tvg-name="G PLUS - SUNNY BUNNIES"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/sunny.bunnies.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SUNNY BUNNIES
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71675
-#EXTINF:-1 tvg-name="G PLUS - SUNGER BOB"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/sunger.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SUNGER BOB
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71666
-#EXTINF:-1 tvg-name="G PLUS - SONIC"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/sonic.tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SONIC
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71664
-#EXTINF:-1 tvg-name="G PLUS - SIRINLER"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/sirinler.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SIRINLER
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71663
-#EXTINF:-1 tvg-name="G PLUS - SIHIRLI OKUL OTOBUSU YENIDEN YOLLARDA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/the.magic.tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SIHIRLI OKUL OTOBUSU YENIDEN YOLLARDA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71637
-#EXTINF:-1 tvg-name="G PLUS - POKEMON"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/pokemon.tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - POKEMON
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71662
-#EXTINF:-1 tvg-name="G PLUS - PJ MASKS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/pj.maske%20tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PJ MASKS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71639
-#EXTINF:-1 tvg-name="G PLUS - PAW PETROL"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/paw.patrol%20tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PAW PETROL
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71660
-#EXTINF:-1 tvg-name="G PLUS - PATRON BEBEK"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/boss%20tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PATRON BEBEK
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71648
-#EXTINF:-1 tvg-name="G PLUS - ONCE UPON A TIME DISCOVERERS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/once-upon-a-time-discoverers-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - ONCE UPON A TIME DISCOVERERS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71658
-#EXTINF:-1 tvg-name="G PLUS - OGGY"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/oggy.and.die.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - OGGY
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71674
-#EXTINF:-1 tvg-name="G PLUS - NINJAGO"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/ninjago.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NINJAGO
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71657
-#EXTINF:-1 tvg-name="G PLUS - MUFETTIS GADGET"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/mufettis.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - MUFETTIS GADGET
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71656
-#EXTINF:-1 tvg-name="G PLUS - MOLANG"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/molang-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - MOLANG
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71673
-#EXTINF:-1 tvg-name="G PLUS - MASA VE KOCA AYI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/masha.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - MASA VE KOCA AYI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71655
-#EXTINF:-1 tvg-name="G PLUS - KUZU SHAUN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kuzu.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - KUZU SHAUN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71654
-#EXTINF:-1 tvg-name="G PLUS - KUKULI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kukuli.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - KUKULI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71653
-#EXTINF:-1 tvg-name="G PLUS - KUCUK BHEEM İLE BUYUK MACERALAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/kucuk-bheem-ile-buyuk-maceralar-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - KUCUK BHEEM İLE BUYUK MACERALAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71671
-#EXTINF:-1 tvg-name="G PLUS - KRAL SAKIR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kral.sakir.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - KRAL SAKIR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71652
-#EXTINF:-1 tvg-name="G PLUS - JURASSIC WORLD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/jurassic.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - JURASSIC WORLD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71651
-#EXTINF:-1 tvg-name="G PLUS - HEIDI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/heidi.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - HEIDI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71650
-#EXTINF:-1 tvg-name="G PLUS - GRIZZY"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/grizzy.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - GRIZZY
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71672
-#EXTINF:-1 tvg-name="G PLUS - GABBY'NIN HAYAL EVI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/gabby.tr.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - GABBY'NIN HAYAL EVI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71649
-#EXTINF:-1 tvg-name="G PLUS - BOOBA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/booba.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - BOOBA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71670
-#EXTINF:-1 tvg-name="G PLUS - BLUEY"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/bluey-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - BLUEY
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71608
-#EXTINF:-1 tvg-name="G PLUS - AVATAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/avaatar.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - AVATAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71647
-#EXTINF:-1 tvg-name="G PLUS - ANGRY BIRDS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/angry.birds.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - ANGRY BIRDS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71646
-#EXTINF:-1 tvg-name="G PLUS - PIRIL"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/piril-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PIRIL
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74764
-#EXTINF:-1 tvg-name="G PLUS - 64 KARE ULKESI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/64-kare-ulkesi-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - 64 KARE ULKESI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74961
-#EXTINF:-1 tvg-name="G PLUS - ADISEBABA MASALLAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/adisebaba-masallari-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - ADISEBABA MASALLAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74962
-#EXTINF:-1 tvg-name="G PLUS  - CAILLOU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/cailou-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS  - CAILLOU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74963
-#EXTINF:-1 tvg-name="G PLUS - SEVIMLI DOSTLAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/sevimli-dostlar-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SEVIMLI DOSTLAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74964
-#EXTINF:-1 tvg-name="G PLUS - TAVSAN MOMO"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/tavsan-momo-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - TAVSAN MOMO
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74965
-#EXTINF:-1 tvg-name="G PLUS - CANIM KARDESIM"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/canim-kardesim-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - CANIM KARDESIM
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75110
-#EXTINF:-1 tvg-name="G PLUS - CHICKY"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/chicky-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - CHICKY
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75111
-#EXTINF:-1 tvg-name="G PLUS - CILGIN ORMAN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/cilgin-orman-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - CILGIN ORMAN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75112
-#EXTINF:-1 tvg-name="G PLUS - COCUK ILAHI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/cocuk-ilahi-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - COCUK ILAHI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75113
-#EXTINF:-1 tvg-name="G PLUS - DORU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/doru-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - DORU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75115
-#EXTINF:-1 tvg-name="G PLUS - EGE ILE GAGA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/ege-ile-gaga-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - EGE ILE GAGA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75116
-#EXTINF:-1 tvg-name="G PLUS - LIMON ILE ZEYTIN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/limon-ile-zeytin-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - LIMON ILE ZEYTIN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75117
-#EXTINF:-1 tvg-name="G PLUS - NASREDDIN HOCA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/nasreddin-hoca-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - NASREDDIN HOCA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75118
-#EXTINF:-1 tvg-name="G PLUS - PISI TV"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/pisi-tv-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - PISI TV
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75119
-#EXTINF:-1 tvg-name="G PLUS - SEKER HOCA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/seker-hoca-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - SEKER HOCA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75120
-#EXTINF:-1 tvg-name="G PLUS - TAYO"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/tayo-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - TAYO
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75121
-#EXTINF:-1 tvg-name="G PLUS - VIKINGLER"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/vikingler-01.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - VIKINGLER
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/75122
-#EXTINF:-1 tvg-name="G PLUS - ALVIN VE SINCAPLAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/alvin.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",G PLUS - ALVIN VE SINCAPLAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71645
-#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT-Belgesel
+
+
+
+# * » Belgesel « * #
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
+
+#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
+
+#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="Bbc Earth [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5oxynyz.png"group-title="Belgesel":http-referrer="":http-user-agent="",Bbc Earth [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/258
-#EXTINF:-1 tvg-name="Discovery Channel [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/848h7ka.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel [ HD ]
-https://lives.anystreamrectv3.live/live/discovery.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-#EXTINF:-1 tvg-name="National Geoprafic [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/llrmfx3.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/286
-#EXTINF:-1 tvg-name="National Geoprafic Wild [ HD ]"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic Wild [ HD ]
-https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-#EXTINF:-1 tvg-name="beIN Gurme [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/qlqk5fm.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN Gurme [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/271
-#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN IZ [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
-#EXTINF:-1 tvg-name="History Channel"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
-https://lives.anystreamrectv3.live/live/history.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Family
-https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-#EXTINF:-1 tvg-name="Bein Movies Premier"tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1322_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Premier
-https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies turk
-https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema":http-referrer="":http-user-agent="",Moviesmart Turk
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="Sinema":http-referrer="":http-user-agent="",Epic Drama
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
-#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/163
-#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 2
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
-#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1001
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
-#EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1002
-http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aksiyon
-https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Komedi
-http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/364
-#EXTINF:-1 tvg-name="Sinema TV Yerli"tvg-id=""tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Yerli
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
-#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aile
-http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
-#EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema":http-referrer="":http-user-agent="",FX
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
-#EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema Mix
-https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
-#EXTINF:-1 tvg-name="Sinema Aksiyon "tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema Aksiyon
-https://lives.anystreamrectv3.live/live/aks3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema Animasyon "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s"group-title="Sinema  ":http-referrer="":http-user-agent="",Sinema Animasyon
-https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema Korku "tvg-id=""tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg"group-title="Sinema  ":http-referrer="":http-user-agent="",Sinema Korku
-https://lives.anystreamrectv3.live/live/kor1.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
-#EXTINF:-1 tvg-name="Sinema Turk "tvg-id=""tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1"group-title="Sinema  ":http-referrer="":http-user-agent="",Sinema Turk
-https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema Star Wars "tvg-id=""tvg-logo="https://www.emp-online.ch/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dwae6f1d97/108112_MT_Star_Wars_Dark_Side_NEU.jpg?sw=768"group-title="Sinema  ":http-referrer="":http-user-agent="",Sinema Star Wars
-https://lives.anystreamrectv3.live/live/wars.m3u8?token=z9_KENRGG4PwTyDn6RhcdQ&tms=1732030442
-#EXTINF:-1 tvg-name="TR:BEIN BOX OFFICE 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN BOX OFFICE 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90481
-#EXTINF:-1 tvg-name="TR:BEIN BOX OFFICE 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN BOX OFFICE 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90482
-#EXTINF:-1 tvg-name="TR:BEIN BOX OFFICE 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinbxoffice3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN BOX OFFICE 3 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90483
-#EXTINF:-1 tvg-name="TR:BEIN SERIES 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beindrama.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN SERIES 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92116
-#EXTINF:-1 tvg-name="TR:BEIN SERIES 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beincomedy.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN SERIES 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92115
-#EXTINF:-1 tvg-name="TR:BEIN SERIES 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesvice.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN SERIES 3 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89267
-#EXTINF:-1 tvg-name="TR:BEIN SERIES 4 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesscfi.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN SERIES 4 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89266
-#EXTINF:-1 tvg-name="TR:BEIN MOVIES PREMIERE 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinmoviepremeire.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN MOVIES PREMIERE 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90484
-#EXTINF:-1 tvg-name="TR:BEIN MOVIES PREMIERE 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/beinmoviepremier2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BEIN MOVIES PREMIERE 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89264
-#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Movies_Stars_TR_logo.png?1630931265"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Stars
-https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="TR:DIZISMART PREMIUM HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:DIZISMART PREMIUM HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89271
-#EXTINF:-1 tvg-name="TR:FILMBOX HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/filmbox.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:FILMBOX HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89282
-#EXTINF:-1 tvg-name="TR:BLUTV PLAY 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BLUTV PLAY 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89900
-#EXTINF:-1 tvg-name="TR:BLUTV PLAY 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:BLUTV PLAY 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89901
-#EXTINF:-1 tvg-name="TR:MOVIE GERILIM KORKU HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilegerilimkorku.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE GERILIM KORKU HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89280
-#EXTINF:-1 tvg-name="TR:MOVIE ANIMASYON HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieanimasyon.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE ANIMASYON HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89281
-#EXTINF:-1 tvg-name="TR:MOVIE BILIM KURGU HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilebilimkurgu.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE BILIM KURGU HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89278
-#EXTINF:-1 tvg-name="TR:MOVIE COMEDY HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviecomdey.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE COMEDY HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89275
-#EXTINF:-1 tvg-name="TR:MOVIE DRAMA ROMANTIK HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviedramaromantik.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE DRAMA ROMANTIK HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89279
-#EXTINF:-1 tvg-name="TR:MOVIE YERLI FILM HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieyerlifilm.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MOVIE YERLI FILM HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89277
-#EXTINF:-1 tvg-name="G PLUS  - WESTERN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/western.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS  - WESTERN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71780
-#EXTINF:-1 tvg-name="G PLUS -  MUJDE AR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/mujde.ar.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS -  MUJDE AR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72279
-#EXTINF:-1 tvg-name="G PLUS -  SENER SEN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/senersen.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS -  SENER SEN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72282
-#EXTINF:-1 tvg-name="G PLUS - ADANA SIFIR BİR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/adana.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ADANA SIFIR BİR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/99219
-#EXTINF:-1 tvg-name="G PLUS - AILE"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/aile.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - AILE
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71165
-#EXTINF:-1 tvg-name="G PLUS - AKSIYON"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/aksiyon.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - AKSIYON
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71166
-#EXTINF:-1 tvg-name="G PLUS - AL PACINO"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/alpacino.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - AL PACINO
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71167
-#EXTINF:-1 tvg-name="G PLUS - ANGELINA JOLIE"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/angelina.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ANGELINA JOLIE
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71168
-#EXTINF:-1 tvg-name="G PLUS - ANIMASYON"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/animasyon03.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ANIMASYON
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71169
-#EXTINF:-1 tvg-name="G PLUS - ARNOLD SCHWARZENEGGER"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/arnold.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ARNOLD SCHWARZENEGGER
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71170
-#EXTINF:-1 tvg-name="G PLUS - ATA DEMIRER TV"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/ata.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ATA DEMIRER TV
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/101220
-#EXTINF:-1 tvg-name="G PLUS - BEHZAT C"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/behzat.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - BEHZAT C
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71130
-#EXTINF:-1 tvg-name="G PLUS - BILIM KURGU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/bilim.kurgu.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - BILIM KURGU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71739
-#EXTINF:-1 tvg-name="G PLUS - BILIM KURGU 1"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/bilim.1.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - BILIM KURGU 1
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71740
-#EXTINF:-1 tvg-name="G PLUS - BILIM KURGU 2"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/bilim.2.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - BILIM KURGU 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71741
-#EXTINF:-1 tvg-name="G PLUS - BOXSET"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/boxset.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - BOXSET
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71745
-#EXTINF:-1 tvg-name="G PLUS - CAMERON DIAZ"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/cameron.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - CAMERON DIAZ
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71746
-#EXTINF:-1 tvg-name="G PLUS - CENNET MAHALLESI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/cennet.mahallesi.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - CENNET MAHALLESI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71842
-#EXTINF:-1 tvg-name="G PLUS - DIRILIS ERTUGRUL"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/dirilis.eltugrul.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - DIRILIS ERTUGRUL
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71129
-#EXTINF:-1 tvg-name="G PLUS - DRAM"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/dram-01.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - DRAM
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71747
-#EXTINF:-1 tvg-name="G PLUS - DWAYNE JOHNSON"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/dwayne.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - DWAYNE JOHNSON
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71748
-#EXTINF:-1 tvg-name="G PLUS - GULDUR GULDUR SHOW"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/guldur-guldur-show-01.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - GULDUR GULDUR SHOW
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74761
-#EXTINF:-1 tvg-name="G PLUS - HARRY POTTER BOXSET"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/harry.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - HARRY POTTER BOXSET
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/101188
-#EXTINF:-1 tvg-name="G PLUS - HINT FILMLERI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/hint.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - HINT FILMLERI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71128
-#EXTINF:-1 tvg-name="G PLUS - IBO SHOW"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/ibo.show.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - IBO SHOW
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71845
-#EXTINF:-1 tvg-name="G PLUS - ICERDE"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/icerde.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ICERDE
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71846
-#EXTINF:-1 tvg-name="G PLUS - IMDB EN IYILER"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/imdb.en.iyiler.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - IMDB EN IYILER
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71749
-#EXTINF:-1 tvg-name="G PLUS - ISLER GUCLER"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/isler.gucler.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - ISLER GUCLER
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71847
-#EXTINF:-1 tvg-name="G PLUS - JACKIE CHAN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/jackie.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - JACKIE CHAN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71750
-#EXTINF:-1 tvg-name="G PLUS - JAN CLOTH VAN DAMME"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/van.damme.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - JAN CLOTH VAN DAMME
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71768
-#EXTINF:-1 tvg-name="G PLUS - JASON STATHAM"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/jasin.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - JASON STATHAM
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71751
-#EXTINF:-1 tvg-name="G PLUS - JETLI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/jetli.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - JETLI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71752
-#EXTINF:-1 tvg-name="G PLUS - KADIR INANIR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kadir.inan%C4%B1r.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KADIR INANIR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72276
-#EXTINF:-1 tvg-name="G PLUS - KANIT"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kanit.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KANIT
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71848
-#EXTINF:-1 tvg-name="G PLUS - KARADAYI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/karaday.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KARADAYI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71849
-#EXTINF:-1 tvg-name="G PLUS - KARTAL TIBET"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kartal.tibet.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KARTAL TIBET
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72277
-#EXTINF:-1 tvg-name="G PLUS - KEMAL SUNAL"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kemal.sunal.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KEMAL SUNAL
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72278
-#EXTINF:-1 tvg-name="G PLUS - KOMEDI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/komei.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KOMEDI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71753
-#EXTINF:-1 tvg-name="G PLUS - KORKU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/korku.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KORKU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71754
-#EXTINF:-1 tvg-name="G PLUS - KIZILCIK SERBETI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/kizilcik.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KIZILCIK SERBETI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/103736
-#EXTINF:-1 tvg-name="G PLUS - KIYMA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/kiyma.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KIYMA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/99488
-#EXTINF:-1 tvg-name="G PLUS - KISMET"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/kismet.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KISMET
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/100960
-#EXTINF:-1 tvg-name="G PLUS - KIZIL GONCALAR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/kizilgoncalar.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KIZIL GONCALAR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/103728
-#EXTINF:-1 tvg-name="G PLUS - KURTLAR VADISI"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/kurtlar.vadisi.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KURTLAR VADISI
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71850
-#EXTINF:-1 tvg-name="G PLUS - KUZEY YILDIZI - ILK ASK"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/kuzey-yildizi-ilk-ask-01.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - KUZEY YILDIZI - ILK ASK
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/74883
-#EXTINF:-1 tvg-name="G PLUS - LEYLA ILE MECNUN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/leyla.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - LEYLA ILE MECNUN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71156
-#EXTINF:-1 tvg-name="G PLUS - MEVZULAR AÇIK MİKROFON"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/1/mevzular-acik-mikrofon-01.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - MEVZULAR AÇIK MİKROFON
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90460
-#EXTINF:-1 tvg-name="G PLUS - MACERA"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/macera.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - MACERA
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71755
-#EXTINF:-1 tvg-name="G PLUS - MAHSUN J"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/mahsun.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - MAHSUN J
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/103575
-#EXTINF:-1 tvg-name="G PLUS - MARVEL 1"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/marvel.1.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - MARVEL 1
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71756
-#EXTINF:-1 tvg-name="G PLUS - MARVEL 2"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/marvel.2.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - MARVEL 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71757
-#EXTINF:-1 tvg-name="G PLUS - SAVAS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/savas.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - SAVAS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71758
-#EXTINF:-1 tvg-name="G PLUS - SEN ANLAT KARADENIZ"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/anlatkaradeniz.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - SEN ANLAT KARADENIZ
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/100917
-#EXTINF:-1 tvg-name="G PLUS - SPOR"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/spor.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - SPOR
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71764
-#EXTINF:-1 tvg-name="G PLUS - STAR WARS"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/star.wars.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - STAR WARS
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71766
-#EXTINF:-1 tvg-name="G PLUS - SON YAZ"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/sonyaz.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - SON YAZ
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/95520
-#EXTINF:-1 tvg-name="G PLUS - SYLVESTER STALONE"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/slyvester.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - SYLVESTER STALONE
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71765
-#EXTINF:-1 tvg-name="G PLUS - TARIK AKAN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/tarik.akan.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - TARIK AKAN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/72283
-#EXTINF:-1 tvg-name="G PLUS - UZAK DOGU"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/uzakdo%C4%9Fu.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - UZAK DOGU
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71767
-#EXTINF:-1 tvg-name="G PLUS - VATANIM SENSIN"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/vatanim.sensin.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - VATANIM SENSIN
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71851
-#EXTINF:-1 tvg-name="G PLUS - WESLEY SNIPES"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/wesley.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - WESLEY SNIPES
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71779
-#EXTINF:-1 tvg-name="G PLUS - WILL SMITH"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/will.smith.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - WILL SMITH
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71782
-#EXTINF:-1 tvg-name="G PLUS - YERLI FILM 2"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/turk.2.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YERLI FILM 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71784
-#EXTINF:-1 tvg-name="G PLUS - YERLI FILM 3"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/turk.3.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YERLI FILM 3
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71785
-#EXTINF:-1 tvg-name="G PLUS - YERLI FILM 5"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/turk.5.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YERLI FILM 5
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71787
-#EXTINF:-1 tvg-name="G PLUS - YESILCAM 1"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/yesilcam.1.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YESILCAM 1
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71788
-#EXTINF:-1 tvg-name="G PLUS - YESILCAM 2"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/yesilcam.2.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YESILCAM 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71789
-#EXTINF:-1 tvg-name="G PLUS - YESILCAM 3"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/yesilcam.3.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YESILCAM 3
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71790
-#EXTINF:-1 tvg-name="G PLUS - YESILCAM 4"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/yesilcam.4.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YESILCAM 4
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71791
-#EXTINF:-1 tvg-name="G PLUS - YESILCAM 5"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/vod-sinema/yesilcam.5.png"group-title="Sinema":http-referrer="":http-user-agent="",G PLUS - YESILCAM 5
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/71792
-#EXTINF:-1 tvg-name="TR:MAX 007 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/max007.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX 007 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90124
-#EXTINF:-1 tvg-name="TR:MAX 4K UHD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/max4k.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX 4K UHD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90128
-#EXTINF:-1 tvg-name="TR:MAX AKSIYON HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX AKSIYON HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90131
-#EXTINF:-1 tvg-name="TR:MAX AKSYION 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX AKSYION 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90132
-#EXTINF:-1 tvg-name="TR:MAX ANIMASYON HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX ANIMASYON HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90122
-#EXTINF:-1 tvg-name="TR:MAX ANIMASYON 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX ANIMASYON 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90123
-#EXTINF:-1 tvg-name="TR:MAX GOLD HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxgold.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX GOLD HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90120
-#EXTINF:-1 tvg-name="TR:MAX HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxhd.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90118
-#EXTINF:-1 tvg-name="TR:MAX STAR WARS HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxstarwars.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX STAR WARS HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90117
-#EXTINF:-1 tvg-name="TR:MAX TURK HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxturk.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX TURK HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90116
-#EXTINF:-1 tvg-name="TR:MAX VIZYON 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX VIZYON 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90115
-#EXTINF:-1 tvg-name="TR:MAX VIZYON 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX VIZYON 3 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90114
-#EXTINF:-1 tvg-name="TR:MAX VIZYON 4 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon4.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX VIZYON 4 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90130
-#EXTINF:-1 tvg-name="TR:MAX VIZYON HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX VIZYON HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90113
-#EXTINF:-1 tvg-name="TR:MAX WESTERN HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxwestern.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX WESTERN HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90112
-#EXTINF:-1 tvg-name="TR:MAX PREMIER HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxpremier.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:MAX PREMIER HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90121
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Iron Man
-https://vidrame.pro/vr/get/ef7709d0/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Inanilmaz Hulk
-https://a3.vidload.lol/2591/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Iron man 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor
-https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Kaptan-Amerika-Ilk-Yenilmez-180x270.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Ilk Yenilmez
-https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-yenilmezler-the-avengers-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Avengers
-https://vidrame.pro/vr/get/9de3d24b/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Iron-Man-3-2013.png"group-title="Marvel ":http-referrer="":http-user-agent="",Iron Man 3
-https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/c_310_420/pictures/210/384/21038405_20130910100531603.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 2
-https://vidrame.pro/vr/get/5cac84cf/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Captain-America-The-Winter-Soldier-2014.png"group-title="Marvel ":http-referrer="":http-user-agent="",Kaptan Amerika 2
-https://hls9.playmix.uno/hls/captainamerica-2-thewintersoldier-2014-trdualmp4-1ZbaS3jutnZ.mp4/master.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_ebd1f16c.jpeg?region=0,0,540,810"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari
-https://cdn.dzen.ru/vod/converted-video/vod-content/45/85/57/53/01/82/12/72/15/4/9d74f3d1-585a-4041-a0f8-6489c4a9886e/kaltura/desc_0db591c6af9786fc4cd8bb15ab37c7c1/vW0FnTqhn1BU/vw=1280,vh=534,fps=24.00,vbrt=910952,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/98/57/07/44/69/19/58/ca618471-04c3-45dc-956d-adfe9e7cb10f/kaltura/desc_0bb28014aefcef6907153e375f95d4d6/vHOmnVGHECXw/vw=1280,vh=536,fps=24.00,vbrt=1153873,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/15/07/20/18/06/476503.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Karinca Adam
-https://225517853567582.purpleads.pro/d/h6zi36azo7hvw4m6lwxif62itnylxwhklcmrycjoyun5caeg3x5x2dlh5ijcm4rby5fx6jol/Kar%C3%84%C2%B1nca%20Adam%20-%20Ant-Man%202015%201080p.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HsuaaksL2tF7XBUf3bXDO5nRzTd6zINyg&s"group-title="Marvel ":http-referrer="":http-user-agent="",Civil War
-https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Doctor Strange
-https://cdn.txtstream2.xyz/hls/2/cdn5/cdn/movies/doctorstrange.mp4/index.m3u8?token=d2BE4T1uByq6SO5WVHuKVQ&tms=1727037569
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Spiderman Homecoming
-https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://file.macellan.online/images/540/825/80//rzrwtcfvttcn1zpx2xv4j3tsdju--1691413618.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 3
-https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810"group-title="Marvel ":http-referrer="":http-user-agent="",Black Panter
-https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Yenilmezler-3-Sonsuzluk-Savasi.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 3
-https://cdn.dzen.ru/vod/converted-video/vod-content/14/53/24/67/93/40/42/32/65/de2d29e9-01df-4438-a466-9b5c57b3c5b7/kaltura/desc_2099a528ca68ef62ac908194342d5894/vxDDUrZMB0g0/vw=1280,vh=536,fps=24.00,vbrt=1143543,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi"group-title="Marvel ":http-referrer="":http-user-agent="",karinca Adam 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/86/20/34/81/33/89/71/94/4/8888c632-ce91-449d-b136-639beb3d281e/kaltura/desc_3da1c214ae761d72eea325b7d5895558/vuSeInrJpgSc/vw=1280,vh=536,fps=24.00,vbrt=783783,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/96283315/s718/kaptan-marvel.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Captain Marvel
-https://s9.pixypost.art/mc/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxpTy4rKOip3DhLKW0s0xi9vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://panel.1kfilm.com/assets/img/filmsimg/avengers-endgame-yenilmezler-son-oyun.png"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 4
-https://cdn.dzen.ru/vod/converted-video/vod-content/15/31/67/44/79/13/21/12/01/2/86ee28a8-d587-4222-a6bc-573b7bd6e2e7/kaltura/desc_a05356342408ab2b56cf6b1cf7076086/vt6eDlcqVkz8/vw=1280,vh=536,fps=24.00,vbrt=792367,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Spiderman Far from Home
-https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81sraKkmmlL._AC_UF894,1000_QL80_.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Falcon and Winter Soldier  (Dizi)
-https://www.tekfullfilmizle5.com/search/The+Falcon+and+the+Winter+Soldier
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/265588420/s718/kara-dul.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Black Widow
-https://vidrame.pro/vr/get/226fe687/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Shang-Chi
-https://cdn.txtstream2.xyz/hls/5/cdn8/Movies/ShangChi.mp4/index.m3u8?token=Dxw5l263TTTAh9HyYZ2IIA&tms=1727092723
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2022/04/eternals-180x270.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Eternals
-https://cdn.txtstream2.xyz/hls/5/cdn17/Film/Eternals.2021.Imax.1080P.Dsnp.Web-Dl.Ddp5.1.Atmos.H.264-Tt.mp4/index.m3u8?token=qZ21dqV06BGtcEFAR9oRFA&tms=1727092887
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/orumcek-adam-eve-donus-yok-izle-1-16915.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Spiderman No  way Home
-https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5525675DDD0ADAC6D5527A7E051241B2DB49578C204C32C9C097B67022EABFC8/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel ":http-referrer="":http-user-agent="",Wandavison (Dizi)
-https://dizimag.org/dizi/wandavision
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/DR-STRANGE.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Doctor Strange 2
-https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sm.ign.com/ign_tr/cover/a/agatha-cov/agatha-coven-of-chaos_5a3c.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Agatha: Coven of Chaos (Dizi)
-https://www.hdfilmcehennemi.sh/dizi/agatha-all-along-6/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/22/07/06/14/47/0142016.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 4
-https://vidrame.pro/vr/get/5cac84cf/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/22/11/07/07/30/1572006.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Black Panter 2
-https://s5.imgmania.org/m1/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/301774755/s718/the-guardians-of-the-galaxy-holiday-special.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari Special
-https://s2.photogrids.site/m5/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTuiqT9apzyxpl5mnKEys0xi2vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Werewolf by Night
-https://sithmanifest.com/server/videos/367248/eng/cDdpa2g3eHFoM3I5V25wS1JJeTgwQzFMdit1Y1lvQnlMaEhRbjZGc0ZUREZlbk5mYVJIYkE3K3c4OEVJTk5ldw/1080.m3u8?_=1727725128
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/308866909/s718/sezon-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Loki (Dizi)
-https://www.hdfilmcehennemi.sh/dizi/loki-izle-hdf10-70333107/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81TR9+czWiS.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",What If (Dizi)
-https://hdfilmizlesene.org/peki-ya-what-if-dizi-izle/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/258645940/s718/hawkeye.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Hawkeye (Dizi)
-https://www.hdfilmcehennemi.sh/dizi/hawkeye-hdf14-1hdf8011190/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/277939929/s718/moon-knight.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Moon Knight (Dizi)
-https://hdfilmcehennem.net/moon-knight-izle-6/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/01/25/11/45/2784455.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Karinca adam 3
-https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/23/05/04/08/22/5434226.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari  3
-https://s230.rapidrame.com/hls2/01/00017/ecwqshhs3aq0_,l,n,.urlset/master.m3u8?t=oO1N8VRujNdEtDAk1ihVXFrxpSwJTB8aZ3OxmH5SMso&s=1727448594&e=1199998800&f=87506&srv=s298&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/283720920/s718/Staffel-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Ms. Marvel (Dizi)
-https://yabancidizi.tv/dizi/ms-marvel-izle-3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0,0,540,810"group-title="Marvel ":http-referrer="":http-user-agent="",The Marvels
-https://vidrame.pro/vr/get/b38c1403/480.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2023/07/28/content_64c37b9bd54c2_78839.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Secret Invasion (Dizi)
-https://yabancidizi.tv/dizi/secret-invasion-izle-1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/11/04/06/16/0911565.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Echo (Dizi)
-https://fullhdfilmizle.cx/echo-izle-22
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0R829ipVmRfBppmmqfgV8D-WZUpk9txWAliBm9CYXxtUNN.jpg"group-title="DCU":http-referrer="":http-user-agent="",Batman The Dark Knight
-https://vidrame.pro/vr/get/503b6fee/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/784cd10ce5985eb2f3dac50c87f9806e2f23e28c6a5b82f035b3915a302b109e.jpg"group-title="DCU":http-referrer="":http-user-agent="",Batman the Dark Rises
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/90/82/24/92/04/41/93/48/3/036a4860-6294-47a6-bef7-8d6dd72e169e/kaltura/desc_c1241ebcfabdbf16d5c36b6eb999733f/vUh-4o7UgHR0/vw=1280,vh=720,fps=24.00,vbrt=1126151,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDYmLWmCBgPZhZFUVX8wTfZwSZPDblYPgBG3SX18fdFNpN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli
-https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z9kf3N2GfyXADxC8HlXfUNAZ60VvjlZQR2k0ZfdFNpN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/38/79/57/04/71/80/84/27/25/8/619271cd-456e-48a8-84e7-9e94c5b3508d/kaltura/desc_6904e4f25421b9f114bf27081a41812b/vgdvhgl6hME4/vw=1280,vh=546,fps=24.00,vbrt=1602756,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDA8jbqGVkvvmk9aNZPGL0mvtXQ0jBGKL0800f1ffdFNpN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 3
-https://cdn.dzen.ru/vod/converted-video/vod-content/23/27/24/23/79/09/34/31/77/7/1a91e7b0-e9be-44ec-af30-ab710bd54976/kaltura/desc_93571659f7d3dee47b255fe795aeb143/vJX7sHKeRTB4/vw=1280,vh=536,fps=24.00,vbrt=1206082,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z8ZGiVcF0b2YFtglfxVweYVYbt0pn/0X091qgUYXxtUNN==.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 4
-https://vidrame.pro/vr/get/63bc9250/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/H%C4%B1zl%C4%B1_ve_%C3%96fkeli_5_%28afi%C5%9F%29.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 5
-https://vidrame.pro/vr/get/03790982/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0P9lf_QVett0QZbcFt5VAmSZm_HkqsD1ADhfFAUYXxtUNN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 6
-https://vidrame.pro/vr/get/25624c87/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0P_Xp_smlv3XFwIjZLgZPf6dlR7kG8mWdGDXPgQYXxtUNN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 7
-https://vidrame.pro/vr/get/66988bb7/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDY3Q1fGNZPd8XAiMWeRjXpH4mYlfj8v4Y88xb18fdFNpN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 8
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/31/37/55/31/97/60/30/01/33/a126719c-272a-434b-9b3b-9fdeca466e67/kaltura/desc_1747a38f9a7459425dce36fad9c71a4d/vKzoJbaeGOhU/vw=1920,vh=804,fps=24.00,vbrt=2013306,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDGjjkvCNkw_EkdoO0GlfVAFd0lR4CQl3WZ8wC08fdFNpN.jpg"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 9
-https://cdn.dzen.ru/vod/converted-video/vod-content/79/81/29/86/71/80/06/90/2/e78cb599-9648-4a7a-822b-40ce7105512a/kaltura/desc_2e7114dc4d2a2758dbe3474f8f552565/vYfqJXE65bHE/vw=1280,vh=536,fps=24.00,vbrt=1289442,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/320021290/s166/hizli-ve-ofkeli-10"group-title="Hizli ve Ofkeli ":http-referrer="":http-user-agent="",Hizli ve Ofkeli 10
-https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.posters.cz/image/1300/poster/harry-potter-der-stein-der-weisen-i104639.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter
-https://cdn.dzen.ru/vod/converted-video/vod-content/48/88/60/47/99/32/84/47/19/9/1d77e788-dddb-4585-861f-f13637a225bc/kaltura/desc_632e960777b6e5fe72f21db7dc66019c/vkXobfS4Q0FE/vw=1280,vh=534,fps=24.00,vbrt=1057640,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fff72385d087e1d4bbcbc45052fbafcd69fa2b4cc92dad9eb4d5297d06e0c0af._SX780_.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 2
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/39/86/92/16/29/45/98/73/b3ebbf1b-0440-4f5a-ab4f-1665758c2c92/kaltura/desc_86665736235ae6f9572af03ff8ab37ce/vbsc2-Du6BWE/vw=1280,vh=534,fps=24.00,vbrt=986752,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/lBQTnSIfJAsUilF4SJM-YFsfe-xEsXUcnhpQxurGkj4pWZT9jIsHLqa7XPN3tRjLoGOQCF3nx1FD8dGPtl8"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 3
-https://cdn.dzen.ru/vod/converted-video/vod-content/30/27/22/51/47/13/14/43/59/8/93881b7a-359c-40a2-ae0f-5a1160603917/kaltura/desc_6f31f1be4ef33899a279caf44b013453/vsY5Ad0y7aFU/vw=1280,vh=534,fps=24.00,vbrt=1364999,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.culture.ru/images/a3e4e9f4-5fbd-5269-8495-4e5103cd2c15"group-title="harry Potter ":http-referrer="":http-user-agent="",Harry Potter 4
-https://panel.sinema.cx/m3/QjlPVmNUYmpPOTJKNldvbVlmSjUycENPRnZMT2dpZFU2WlZrTUdPbjZFazJQL3F4Q0RPODNRUEl0TTl3b3BqTE9ITDdMY3BDVWNmRU1XbUN1NHFnek1mR1M2Qm5OSWdIdEt4T2ZGTlIzVlgwWXVJbUdLV2hXYWFxQ0d6cU1DTzMyTXN4eitjUU5KQm9CVVRYSnhydGNrTGZGdzYxc1VEamx1Vm5VcWdTU2IrVlRDbkdzMWFabXl3Z1VldFhwUzlDek8wMlo5ckswN1MzRkFYL1VWcXJvU1lRQlZuaFNBYTFNUzhMTWFYUm9Da2NVSXZtRmNGNzF1bm55aUxxaTIzMVNzY0VlQXBEd21sUHVpcWlWazBJMVduQm12T0JIcnhycUZHMzErVzhibzNXbWlnd1hsY3l0L3dTNXVtc3pBUzQ%3D
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/264875049/s718/harry-potter-ve-zumruduanka-yoldasligi.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 5
-https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900088/s718/harry-potter-ve-melez-prens.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 6
-https://cdn.dzen.ru/vod/converted-video/vod-content/89/00/78/12/41/71/20/10/66/6/e9d87728-f42c-4fd4-b2eb-4ec8bc98b5c5/kaltura/desc_f4f5beb7764717c39926764687cc11b5/v2JsATmu7rHM/vw=1280,vh=534,fps=24.00,vbrt=620677,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 7
-https://cdn.prectv2.lat/hls/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4/index.m3u8?token=7gT_dcoNvn4NP3ZxO02QBQ&tms=1731874943
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/5f526e5e933ccb22709ecf9d.jpg"group-title="Harry Potter ":http-referrer="":http-user-agent="",Harry Potter 8
-https://panel.sinema.cx/m3/U0R5Rko5RmpvWjgrRVh6elhJdDNvaEdOUmI5WmFJV29tZmRvbmVXeDFieWNUQVFkYTRFbDBVQWJuWUpxeHF6NXMyb3hobmdMMmtDZ3Jrdi9qNTZEUW1naGRURTVqcm91QkNDaHlwTlpZZkh1VjdKVE1vd3ZWdXFsVDJpajNpZ1FCTEkzblhjRFlBcFdyZkZvL3pMK2t2T3BQRzVFSDNZbHp3eFpwc2hJU0RPRzZDNEVuRFFRalR2dFROZVBMbmhubUlXakxYTkRXSFdiQnZoY1JWVUE4SkRkS3EvNjhENmo5eFAxNjdSRVc5L0hSWjJoOFovK2FNRDBqYzlRcnVXSGlqNi81Q2I2WnVtQkh4YldPSGtJVU5kc2ZpUUJJb20wYlNRajlyTzI2Rk09
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky
-https://cdn776.acropolisvis.pw/615/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky-2_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky 2
-https://cdn789.becamevis.pw/617/480p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky-3-veda_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky 3
-https://cdn765.blindingvis.pw/619/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky-4_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky 4
-https://cdn554.acrossvis.pw/621/360p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky-5_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky 5
-https://cdn554.acrossvis.pw/623/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/rocky-6-rocky-balboa_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Rocky 6
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/65/16/71/36/19/69/48/60/28/8/edce328d-0e43-4808-96a9-c1fefadbf710/kaltura/desc_9b8ae1c5a6631f8775b78f0dd2b2aac8/vrbQps3xBkAI/vw=1920,vh=1040,fps=24.00,vbrt=3056570,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg"group-title="Film ":http-referrer="":http-user-agent="",Dune Part 1
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/18/93/75/33/32/52/33/34/34/8/f1b955dc-7edd-48d6-b0e0-1b1edb622790/kaltura/desc_bba61a89168a85e0a90e6ffa0c0f4eb4/vzks49DtGf0s/vw=1920,vh=804,fps=24.00,vbrt=1289977,abrt=129378,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/dune-part-two_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Dune Part 2
-https://cdn554.acrossvis.pw/3672/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDG6gZG_HgZwEmGn7jlbmZFZa0A_EkYGYC9Pwk1ZfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Fight Club
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/72/04/22/05/73/03/36/65/63/5/2ade2ed9-3038-4613-8918-f7d373390177/kaltura/desc_a2c5a4c21c89189fd7e3e149f3aa5a4c/v8BWoF26NQC8/vw=1920,vh=800,fps=24.00,vbrt=1903461,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-prestij-the-prestige.webp"group-title="Film ":http-referrer="":http-user-agent="",The Prestige
-https://vidrame.pro/vr/get/71efdcb8/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdooi6w35ctejeZz39B15KYvmbQjcUVI5tqY5YVi4rlvLdejwX"group-title="Film ":http-referrer="":http-user-agent="",Inception
-https://cdn.dzen.ru/vod/converted-video/vod-content/25/49/61/88/58/51/73/37/02/ab4f8a08-1d0c-4025-aa0f-bdcbdfbb1727/kaltura/desc_2da558bf53cdd6ea962cd83e59c0c280/vfdItyhKBcGU/vw=1280,vh=534,fps=24.00,vbrt=913259,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDGmElmQYAYaoAA_YjQ_Hjqxgle4klYxa08wIk1ffdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Gangs of New York
-https://vidrame.pro/vr/get/1573fef9/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAj3Z9mNimX_jXmCZeCN2vVeV9l7kqYJbPaZl1ffdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Benjamin Button’ın Tuhaf Hikayesi
-https://vidrame.pro/vr/get/63a10802/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2022/03/kanli-elmas-180x270.jpg"group-title="Film ":http-referrer="":http-user-agent="",Blood Diamond
-https://cdn.dzen.ru/vod/converted-video/vod-content/47/43/09/10/66/66/70/91/30/1/82c6ff5b-17aa-4d0d-b895-0f3ab5aa1c6e/kaltura/desc_13613c626229be04591ff2c0ab811c78/vwL9v_ZGphyQ/vw=1280,vh=530,fps=24.00,vbrt=1547357,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/can-dostum-2011_list.webp"group-title="Film":http-referrer="":http-user-agent="",The Intouchables
-https://a1.vidload.lol/824/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/city-of-god_list.webp"group-title="Film ":http-referrer="":http-user-agent="",City of God
-https://cdn776.acropolisvis.pw/1180/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDG88jGt42G3AXQsTWpdiV9j7Xq_peGaTYqXzV1ZfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Django Unchained
-https://vidrame.pro/vr/get/0b5e53d0/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/94441e44a4c725a471d26c6ddf88bc4c9c9efb01ef2ea3825e48fd74c5d583f1.jpg"group-title="Film ":http-referrer="":http-user-agent="",Goodfellas
-https://cdn.dzen.ru/vod/converted-video/vod-content/35/59/17/53/84/97/30/48/66/0/2fefe145-16b1-4ffb-a27c-9aebccc7f49f/kaltura/desc_d297caa2ef3006db4c978b81c16cf333/vWXWSuTUgAGU/vw=1280,vh=720,fps=24.00,vbrt=1055136,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/55983.jpg"group-title="Film ":http-referrer="":http-user-agent="",Köstebek
-https://cdn.dzen.ru/vod/converted-video/vod-content/52/73/62/85/18/45/58/76/43/8/9fbe8ea3-6c75-4d50-b428-02190f24a010/kaltura/desc_c0d09029b4291ae8f227b6baed1df35f/v-h1ABrgy21I/vw=1280,vh=532,fps=24.00,vbrt=727617,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDm_RVdKPWYZ43ZNziqZx3eGNWd6cVm7E09sQl08fdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Whiplash
-https://vidrame.pro/vr/get/61e2bb25/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDY3H1pZbXZNwYf3OXw0bAptzkFVmlQfmXQ_WA0ffdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Green Book
-https://vidrame.pro/vr/get/a14f25a6/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0YpflmW0QHykZDtmfUNeAn_0AmCmpmq39Hc1AACYXxtUNN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Gran Turismo
-https://vidrame.pro/vr/get/a33a29dd/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.tekfullfilmizle5.com/wp-content/uploads/kapan-get-out-125x160.jpg.webp"group-title="Film ":http-referrer="":http-user-agent="",Get Out
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/70/40/71/00/80/50/94/02/00/85253d9c-36d1-4385-beb2-1e96a7a0791c/kaltura/desc_6314e190fe4c19ccea04364286d8aba0/v9Lthgjwu_jM/vw=1920,vh=804,fps=24.00,vbrt=1333292,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDY3YXAni0e3NZvDw1GpxcZCHjQtk3gvkYwjum0pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Prisoners
-https://cdn554.acrossvis.pw/1149/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://yabancidizi.tv/uploads/series/contratiempo-izle.jpg"group-title="Film ":http-referrer="":http-user-agent="",The Invisible Guest
-https://a2.vidload.lol/2686/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://filmekseni.net/uploads/poster/asfaltin-krallari_list.webp"group-title="Film ":http-referrer="":http-user-agent="",Ford v Ferrari
-https://cdn789.becamevis.pw/237/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/3aadbc7110f4b426b8c7505483a27d037237c82a383ddc19585cd42f4a3d64b4.jpg"group-title="Film ":http-referrer="":http-user-agent="",The Pursuit of Happyness
-https://pixeldrain.com/api/file/2qX8XxjT?download
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/3c719a17c48849b51ef1ce6c482dae7595f0a0728d54a7aff51128022b80556c.jpg"group-title="Film ":http-referrer="":http-user-agent="",I am Legend
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/49/68/64/33/50/20/82/58/6/5e6a53d9-8938-4113-9d11-2d9f7b2b8e4a/kaltura/desc_c8abcab144c69c297f88f2d974e3c559/vdutm5SBOtQE/vw=1280,vh=534,fps=24.00,vbrt=992443,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.bayfilmizle1.com/wp-content/uploads/2016/11/Yildizlararasi.jpg"group-title="Film ":http-referrer="":http-user-agent="",Interstellar
-https://cdn.dzen.ru/vod/converted-video/vod-content/63/32/18/89/47/26/70/79/26/fe6c6f92-22e8-4bd4-98bc-244a5209c216/kaltura/desc_4ed14b976e51d6eb7b8c491e37e51058/v9OXK_H1BAWA/vw=1280,vh=720,fps=24.00,vbrt=1214591,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w1280/bhoSakdAUNOBgewctCUzBNSjLm2.jpg"group-title="Film":http-referrer="":http-user-agent="",Enemy at the Gates
-https://cdn.dzen.ru/vod/converted-video/vod-content/28/98/89/42/34/39/47/87/92/2/1b05b293-2212-41d5-9fed-91a1296622e9/kaltura/desc_03d75a462294fc33a27891883bc7bfc8/vdm8-mrokMR4/vw=1280,vh=544,fps=24.00,vbrt=717073,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.superfilmgeldi.biz/wp-content/uploads/2020/06/5-2.jpg"group-title="Film ":http-referrer="":http-user-agent="",Warrior
-https://pixeldrain.com/api/file/qTynoPZZ?download
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDqlkY9pb19Zil8vhBpUDeZDm0Y7UjGjiVPveC0pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Papillon
-https://cdn776.acropolisvis.pw/1440/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.imdb.com/title/tt0264464/mediaviewer/rm306010113/?ref_=tt_ov_i"group-title="Film ":http-referrer="":http-user-agent="",Catch Me If You Can
-https://cdn.dzen.ru/vod/converted-video/vod-content/63/13/45/67/09/97/85/80/29/7/c4c0cfb0-2fd5-49e8-8ebe-59cf396c85d6/kaltura/desc_66abdca23b9d5ce792369d05a5d024e1/vNbeWPm65dCA/vw=1280,vh=690,fps=24.00,vbrt=1120112,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/26/200px-Lord_of_War_film.jpg"group-title="Film ":http-referrer="":http-user-agent="",Lord Of War
-https://cdn.dzen.ru/vod/converted-video/vod-content/68/90/24/38/75/77/53/65/90/4/b9a194cb-3650-479d-b7a7-20f0f78129d7/kaltura/desc_2e3e15f16100b2cf73dbd7c4792fdbca/vDIf4LJwwGic/vw=1280,vh=534,fps=24.00,vbrt=834596,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/10/Marsli.jpg"group-title="Film ":http-referrer="":http-user-agent="",The Martian
-https://vidrame.pro/vr/get/0759ce0a/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDYl1WXaW09oHjqRmWP8e1ZvwZY_GY9Z03mNjd0pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",The Revenant
-https://vidrame.pro/vr/get/f57a44ca/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAjjll8bXG_qmPjclpH1WqFgkY7ojXttlZaYl0pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Arrival
-https://vidrame.pro/vr/get/0719325f/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.dzen.ru/vod/converted-video/vod-content/80/48/49/54/66/97/03/43/14/8/ca37e219-8a66-4dab-8788-a810fee4978c/kaltura/desc_364162c63a08ac0efeab391661a67595/v2td7mikdr2I/vw=1278,vh=720,fps=24.00,vbrt=709343,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8"group-title="Film ":http-referrer="":http-user-agent="",The Others
-https://cdn.dzen.ru/vod/converted-video/vod-content/80/48/49/54/66/97/03/43/14/8/ca37e219-8a66-4dab-8788-a810fee4978c/kaltura/desc_364162c63a08ac0efeab391661a67595/v2td7mikdr2I/vw=1278,vh=720,fps=24.00,vbrt=709343,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDY6_Zmv5ZqxlkvYYZQwLlllvmlPt2vsOWQPjV1pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Wonder
-https://s290.rapidrame.com/hls2/01/00018/vawppv1tj20s_,l,n,.urlset/master.m3u8?t=KrEgPzKx2A7hDDa6SVRXN2dXrj5dv-5nUipf17vK9C4&s=1727997845&e=1199998800&f=93284&i=0.0&sp=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://fullhdfilm.pro/uploads/olimg/2023-12/hachi-bir-kopegin-hikayesi-2009-turkce-dublaj-izle_f.webp"group-title="Film ":http-referrer="":http-user-agent="",Hachiko
-https://s394.rapidrame.com/hls2/01/00015/nw25mpdjlqh1_,l,n,.urlset/master.m3u8?t=p0UaPJH0HJeUUeOK9uTXvvOWOo6sSE0tUzHiYiZWpvU&s=1727998211&e=1199998800&f=76465&i=0.0&sp=0
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDA_R2qt-BmUqk9jeBPjclAF0mYeNflltZF0jc1pfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Togo
-https://vidrame.pro/vr/get/6998b977/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDm_YVlZ-fZReXFjkWZGDkZ0xkYsHWQ7Ejm4200ZfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Muhtesem Showman
-https://faf85786.545645.xyz/file/snwaxdop/The.Greatest.Showman.2017.DUAL.mkv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAmH0efwXYwoWQsZXlx0hPttd83XiQZyBZmnf0ZfdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Blind Side
-https://vidrame.pro/vr/get/8939bf6a/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDA00mFsVVQjaXQwpi84tdFiZ1pt8YZ_Y2qP7218fdFNpN.jpg"group-title="Film ":http-referrer="":http-user-agent="",Point Break
-https://vidrame.pro/vr/get/c7f36825/1080.txt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C8D13FFDEA93C10069A51DDA07050A362726ADCA060AACEE5DACB61CD3F7891/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Film-Animasyon ":http-referrer="":http-user-agent="",WALL·E
-https://vidrame.pro/vr/get/58390cad/1080.txt
-#EXTINF:-1 tvg-name="RTL"tvg-id="Almanya_RTL"tvg-logo="https://www.rtl.de/rtl_logo.png"group-title="Almanya":http-referrer="":http-user-agent="",RTL
-https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=41b3227ad71e4765a47f3f4f36fae81dd38119cf-46e4963bd27d0be15f5951ae1a5b0f87-1731951864-1731941064
-#EXTINF:-1 tvg-name="RTL 2"tvg-id="Almanya_RTL 2"tvg-logo="https://images.rtl2.de/kNRjQB5sYqPN-rtlzwei.png?impolicy=assets2021&im=Resize,width=1200"group-title="Almanya ":http-referrer="":http-user-agent="",RTL 2
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:-1 tvg-name="RTL Nitro"tvg-id="ALmanya_RTL Nitro "tvg-logo="https://kress.oberauer-cloud.com/news_detail_slider/uploads/news/rtl-nitro-logo-2012.jpg"group-title="Almanya ":http-referrer="":http-user-agent="",RTL Nitro
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230145
-#EXTINF:-1 tvg-name="SAT 1 "tvg-id="Almanya_SAT1"tvg-logo="https://www.fameonme.de/wp-content/uploads/2018/06/sat1.jpg"group-title="Almanya ":http-referrer="":http-user-agent="",SAT 1
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230149
-#EXTINF:-1 tvg-name="SAT 1 Gold "tvg-id="Almanya_SAT1 Gold "tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2021/03/sat1-gold-png-form.png"group-title="Almanya ":http-referrer="":http-user-agent="",SAT 1 Gold
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230150
-#EXTINF:-1 tvg-name="Kabel 1"tvg-id="Almanya_Kabel 1 "tvg-logo="https://mim.p7s1.io/pis/ld/9dbbzChLCVyZ-c1vEwXZAanB-DJ78rnq2V2gRWTHzVV6NywNWMSJCEGmZ4YSENP-WRL0b9lo2z_IfG4Zc_BxBCA7dC3b_CyoDoGsPdBTotvlVdp9k62ou-SlzQIxn3Q1vvVgoAHfm7E/profile:original?w=1024"group-title="Almanya ":http-referrer="":http-user-agent="",Kabel 1
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230155
-#EXTINF:-1 tvg-name="Tele 5 "tvg-id="Almanya_Tele 5 "tvg-logo="https://yt3.googleusercontent.com/kCFPrxuH2S0Km6bLHLRnk-3a7yERF4SQ1YrV5KDbMBSeJYge9AhBpKQLT8SZ2Dz2kNOjrBO_6g=s900-c-k-c0x00ffffff-no-rj"group-title="Almanya ":http-referrer="":http-user-agent="",Tele 5
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230167
-#EXTINF:-1 tvg-name="DMAX "tvg-id="Almanya_DMAX"tvg-logo="https://www.dmax-shop.de/cdn/shop/files/mgmn_dmax_535x.jpg?v=1698242767"group-title="Almanya ":http-referrer="":http-user-agent="",DMAX
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88694
-#EXTINF:-1 tvg-name="ARD "tvg-id="Almanya_ARD "tvg-logo="https://www.ard.de/icons/sharing-icon-1280x720.png"group-title="Almanya ":http-referrer="":http-user-agent="",ARD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88626
-#EXTINF:-1 tvg-name="ZDF"tvg-id="Almanya_ZDF "tvg-logo="https://m.media-amazon.com/images/I/41MEvKq9u1L.png"group-title="Almanya ":http-referrer="":http-user-agent="",ZDF
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230138
-#EXTINF:-1 tvg-name="DE:Fußball 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/dazn1.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:Fußball 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/98764
-#EXTINF:-1 tvg-name="DE:Fußball 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/dazn2.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:Fußball 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/98765
-#EXTINF:-1 tvg-name="DE: SKY SPORT NEWS"tvg-id="Sky Sport News"tvg-logo="https://docdog.top/logo/countries/germany/sky-sport-news-alt-de.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: SKY SPORT NEWS
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230400
-#EXTINF:-1 tvg-name="DE: Sky Sports Premier League"tvg-id="Sky Sport Premier Leaque"tvg-logo="https://docdog.top/logo/countries/germany/sky-sports-premier-league-hz-uk.png"group-title="Almanya-Spor ":http-referrer="":http-user-agent="",DE: Sky Sports Premier League
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230402
-#EXTINF:-1 tvg-name="DE: Sky Sport Mix"tvg-id="Sky Sport Mix"tvg-logo="https://docdog.top/logo/countries/germany/sky-sports-mix-hz-uk.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: Sky Sport Mix
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230404
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88764
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 1 HQ"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 1 HQ
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88763
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga2.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88765
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 3 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundeliga3.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 3 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88766
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 4 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga4.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 4 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88767
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 5 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/sklybundesliga5.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 5 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88768
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 6 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybnsgaliga6.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 6 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88769
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 7 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga7.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 7 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88770
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 8 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga8.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 8 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88771
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 9 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga9.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 9 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88772
-#EXTINF:-1 tvg-name="DE:SKY BUNDESLIGA 10 HD (LIVE EVENT)"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga10.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY BUNDESLIGA 10 HD (LIVE EVENT)
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88773
-#EXTINF:-1 tvg-name="DE:SKY SPORT 1 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysrpot.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 1 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88781
-#EXTINF:-1 tvg-name="DE:SKY SPORT 2 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport2.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 2 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88782
-#EXTINF:-1 tvg-name="DE:SKY SPORT 3 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport3.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 3 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88783
-#EXTINF:-1 tvg-name="DE:SKY SPORT 4 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport4.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 4 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88784
-#EXTINF:-1 tvg-name="DE:SKY SPORT 5 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/rtl/skysport5.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 5 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88785
-#EXTINF:-1 tvg-name="DE:SKY SPORT 6 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/rtl/skysport6.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 6 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88786
-#EXTINF:-1 tvg-name="DE:SKY SPORT 7 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/rtl/skysport7.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 7 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88787
-#EXTINF:-1 tvg-name="DE:SKY SPORT 8 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport8.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 8 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88788
-#EXTINF:-1 tvg-name="DE:SKY SPORT 9 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport9.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 9 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88789
-#EXTINF:-1 tvg-name="DE:SKY SPORT 10 HD"tvg-id=""tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skysport10.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE:SKY SPORT 10 HD
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88790
-#EXTINF:-1 tvg-name="DE: EUROSPORT 1"tvg-id="Eurosport 1"tvg-logo="https://docdog.top/logo/countries/germany/eurosport-1-de.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: EUROSPORT 1
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88757
-#EXTINF:-1 tvg-name="DE: EUROSPORT 2"tvg-id="Eurosport 2"tvg-logo="https://docdog.top/logo/countries/germany/eurosport-2-de.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: EUROSPORT 2
-http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/88758
-#EXTINF:-1 tvg-name="DAZN 1 HD"tvg-id="dazn-1-de"tvg-logo="https://cdn.mos.cms.futurecdn.net/FsAivAFcA74xErTYjoysJD-320-80.jpg"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DAZN 1 HD
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/257673
-#EXTINF:-1 tvg-name="DAZN 2 HD"tvg-id="dazn-2-de"tvg-logo="https://cdn.mos.cms.futurecdn.net/FsAivAFcA74xErTYjoysJD-320-80.jpg"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DAZN 2 HD
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/257674
-#EXTINF:-1 tvg-name="DE: SPORT DIGITAL"tvg-id="sportdigital"tvg-logo="https://docdog.top/logo/countries/germany/sportdigital-de.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: SPORT DIGITAL
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230421
-#EXTINF:-1 tvg-name="DE: MOTOR VISION"tvg-id="Motorvision TV"tvg-logo="https://docdog.top/logo/countries/germany/motorvision-tv-de.png"group-title="Almanya-Spor":http-referrer="":http-user-agent="",DE: MOTOR VISION
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230422
-#EXTINF:-1 tvg-name="ZDF Info "tvg-id="Almanya-Haber_ZDF Info "tvg-logo="https://www.zdf.de/assets/2400-zdfinfo-100~1280x720?cb=1685531948465"group-title="Almanya-Haber ":http-referrer="":http-user-agent="",ZDF Info
-https://s6.hopslan.com/zdfinfox1/tracks-v1a1/mono.m3u8?token=fc9ae65622643b852ea69bbd4945c26039d7a444-0201866f70631c84bd0d883771dc374c-1726961171-1726950371
-#EXTINF:-1 tvg-name="Phoenix "tvg-id="Almanya-Haber_Phoenix"tvg-logo="https://as1.ftcdn.net/v2/jpg/05/52/99/22/1000_F_552992226_II7IOeYmOdF2CsKlupt0s0R9qPTGleaB.jpg"group-title="Almanya-Haber ":http-referrer="":http-user-agent="",Phoenix
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230166
-#EXTINF:-1 tvg-name="Kika "tvg-id="Almanya-Cocuk_Kika "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"group-title="Almanya-Cocuk ":http-referrer="":http-user-agent="",Kika
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230475
-#EXTINF:-1 tvg-name="Kika"tvg-id="Almanya-Cocuk_Kika"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"group-title="Almanya-Cocuk":http-referrer="":http-user-agent="",Kika
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230475
+
+#EXTINF:-1 tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TGRT" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+
+
+# * » Genel « * #
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
+# ? http://stream.tvcdn.net/ulusal/atv.m3u8
+http://69973.unimaster.us:80/VedatSrli34/121idsub52/46
+
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:-1 tvg-name="Teve2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="Genel",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
+http://stream.tvcdn.net/eglence/a2.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Genel",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="Genel",CNBC-e (Youtube)
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="Genel",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Genel",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-name="Life TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Genel",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine1" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Cine1" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Genel",Cine1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CINE 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_CINE5" tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg" group-title="Genel",CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FashionTV" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Genel",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fashion Film" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FashionFilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="Genel",Fashion Film
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+
+
+# * » EBA « * #
+#EXTINF:-1 tvg-name="EBA İlkOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_IlkOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886648.png" group-title="EBA",EBA İlkOkul
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="EBA OrtaOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_OrtaOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886647.png" group-title="EBA",EBA OrtaOkul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="EBA Lise" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_Lise" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886628.png" group-title="EBA",EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+
+
+
+# * » ÇizgiFilm « * #
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="ÇizgiFilm",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRTDiyanet" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="ÇizgiFilm",TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+
+#EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
+http://relaxsrv.xyz:8080/live/inanc2old/8c5RH7We8A44/6244.m3u8
+# ? http://midyat47.xyz:8080/live/Ejdet47/OQXFXRaPaZ/90.m3u8
+# ? http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+
+#EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaCocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
+http://relaxsrv.xyz:8080/live/inanc2old/8c5RH7We8A44/6247.m3u8
+# ? http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="ÇizgiFilm",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+
+
+# * » Spor « * #
+#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+# ? http://stream.tvcdn.net/spor/sports-tv.m3u8/
+
+#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSHaber" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
+https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+# ? http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+
+#EXTINF:-1 tvg-name="GS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_GSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="Spor",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinnbatv.m3u8
+
+#EXTINF:-1 tvg-name="Euro Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayineu1.m3u8
+# ? https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayineu2.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayint1.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayint2.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayint3.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayint4.m3u8
+
+#EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart2" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinsms2.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinss.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinss2.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinb2.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinb3.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinb4.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinb5.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Max 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-name="EXXEN" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex1.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex7.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex1.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex2.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex3.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex4.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex5.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1080.xyz/
+https://k0.trgoalshls38.cfd/yayinex6.m3u8
+
+
+
+# * » Müzik « * #
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_DreamTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" group-title="Müzik",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c155866ac331e0feb22b" group-title="Müzik",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerDance" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png" group-title="Müzik",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Love" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerLove" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="Müzik",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Akustik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkAkustik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png" group-title="Müzik",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Slow" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkSlow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png" group-title="Müzik",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Taptaze" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkTaptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png" group-title="Müzik",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-name="Kral Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_KralPop" tvg-logo="https://canlitv.center/channels/kral-pop-tv.png" group-title="Müzik",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377" group-title="Müzik",NumberOne Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317" group-title="Müzik",NumberOne TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Aşk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneAsk" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg" group-title="Müzik",NumberOne Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Damar" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDamar" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" group-title="Müzik",NumberOne Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1-768x768.png" group-title="Müzik",NumberOne Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Müzik",Tatlıses TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_MTVBiggestPop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Müzik",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_VevoPop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Müzik",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+
+
+
+# * » İçerik « * #
+#EXTINF:-1 tvg-name="Kemal Sunal" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KemalSunal" tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hqdefault.jpg" group-title="İçerik",Kemal Sunal
+https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+
+#EXTINF:-1 tvg-name="Cennet Mahallesi" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_CennetMahallesi" tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hqdefault.jpg" group-title="İçerik",Cennet Mahallesi
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+
+#EXTINF:-1 tvg-name="Güldür Güldür" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GuldurGuldur" tvg-logo="https://i.ytimg.com/vi/JX5mSkUfxmk/hqdefault.jpg" group-title="İçerik",Güldür Güldür
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+
+#EXTINF:-1 tvg-name="Seksenler" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_Seksenler" tvg-logo="https://i.ytimg.com/vi/w0YwPu4XTzc/hqdefault.jpg" group-title="İçerik",Seksenler
+https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
+
+#EXTINF:-1 tvg-name="Çocuklar Duymasın (Eski Sezon)" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_CocuklarDuymasinEski" tvg-logo="https://i.ytimg.com/vi/wZGnao9E2bE/hqdefault.jpg" group-title="İçerik",Çocuklar Duymasın (Eski Sezon)
+https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
+
+#EXTINF:-1 tvg-name="Çocuklar Duymasın" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_CocuklarDuymasin" tvg-logo="https://i.ytimg.com/vi/EVZmJPw-7hY/hqdefault.jpg" group-title="İçerik",Çocuklar Duymasın
+https://ythls.kekikakademi.org/youtube/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+
+#EXTINF:-1 tvg-name="Selena" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_Selena" tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/hqdefault.jpg" group-title="İçerik",Selena
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+
+#EXTINF:-1 tvg-name="Yaprak Dökümü" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_YaprakDokumu" tvg-logo="https://i.ytimg.com/vi/GTJ-k0FPoCA/hqdefault.jpg" group-title="İçerik",Yaprak Dökümü
+https://ythls.kekikakademi.org/youtube/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
+
+#EXTINF:-1 tvg-name="Kurtlar Vadisi Pusu" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KurtlarVadisiPusu" tvg-logo="https://i.ytimg.com/vi/slT7aQuQukE/hqdefault.jpg" group-title="İçerik",Kurtlar Vadisi Pusu
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+
+#EXTINF:-1 tvg-name="Adanalı" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_Adanali" tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hqdefault.jpg" group-title="İçerik",Adanalı
+https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+
+#EXTINF:-1 tvg-name="Sihirli Annem" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_SihirliAnnem" tvg-logo="	https://i.ytimg.com/vi/02H6irpwLNg/hqdefault.jpg" group-title="İçerik",Sihirli Annem
+https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
+
+
+
+# * » Rahatlatıcı « * #
+#EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
+https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
+#EXTINF:-1 tvg-name="Şelale" tvg-language="English" tvg-country="USA" tvg-id="Rahat_Selale" tvg-logo="https://i.ytimg.com/vi/uW-468cP5Rk/hqdefault.jpg" group-title="Rahatlatıcı",Şelale
+https://ythls.kekikakademi.org/youtube/video/2OM7adQl-YQ.m3u8
+
+#EXTINF:-1 tvg-name="Doğa" tvg-language="English" tvg-country="CA" tvg-id="Rahat_Doga" tvg-logo="https://i.ytimg.com/vi/e7nM3et_bII/hqdefault.jpg" group-title="Rahatlatıcı",Doğa
+https://ythls.kekikakademi.org/youtube/video/e7nM3et_bII.m3u8
+
+
+
+# * » Mobese « * #
+#EXTINF:-1 tvg-name="Anadolu Hisarı" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_AnadoluHisari" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Anadolu Hisarı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beyazıt Kulesi" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_BeyazitKulesi" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Beyazıt Kulesi
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beyazıt Meydan" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_BeyazitMeydan" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Beyazıt Meydan
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Büyük Camlıca" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_BuyukCamlica" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Büyük Camlıca
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dragos" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Dragos" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Dragos
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eminönü" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Eminonu" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Eminönü
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eyüpsultan" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Eyupsultan" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Eyüpsultan
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hidiv Kasrı" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_HidivKasri" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Hidiv Kasrı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kapalı Çarşı" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_KapaliCarsi" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Kapalı Çarşı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Miniatürk" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Miniaturk" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Miniatürk
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ortaköy" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Ortakoy" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Ortaköy
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_ortakoy.stream/playlist.m3u8
 
 #EXTINF:0,RedTraffic TV Live Cams
 http://live.redtraffic.net/livecams.m3u8
