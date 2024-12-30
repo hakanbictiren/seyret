@@ -32,17 +32,19 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
-https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/haberturk.m3u8
+# ? https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
-https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+# ? https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-# ? http://69973.unimaster.us:80/VedatSrli34/121idsub52/139
+http://stream.tvcdn.net/haber/a-haber.m3u8
+# ? https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -57,7 +59,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
-https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+http://stream.tvcdn.net/haber/tele-1.m3u8
+# ? https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
@@ -66,13 +69,15 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
-https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+# ? https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 
 #EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_BloombergHT" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" group-title="Haber",Bloomberg HT
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+# ? https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
 
 
@@ -128,6 +133,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Genel",CNBC-e
 https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+# ? http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 
 #EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="Genel",Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
@@ -218,134 +224,134 @@ http://stream.tvcdn.net/spor/fb-tv.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinnbatv.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-name="Euro Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayineu1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayineu1.m3u8
 # ? https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayineu2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayineu2.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayint1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayint1.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayint2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayint2.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayint3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayint3.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayint4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayint4.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinsmarts.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart2" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinsms2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinsms2.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinss.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinss.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinss2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinzirve.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinb2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinb2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinb3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinb3.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinb4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinb4.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinb5.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinb5.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinbm1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinbm1.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS Max 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinbm2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinbm2.m3u8
 
 #EXTINF:-1 tvg-name="EXXEN" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex1.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex7.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex7.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex1.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex2.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex3.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex4.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex5.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex5.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1088.xyz/
-https://o0.trgoalshls46.cfd/yayinex6.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1089.xyz/
+https://r0.trgoalshls47.cfd/yayinex6.m3u8
 
 
 
@@ -491,8 +497,6 @@ https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ortaköy" tvg-language="Turkish" tvg-country="TR" tvg-id="Mobese_Ortakoy" tvg-logo="https://istanbuluseyret.ibb.gov.tr/wp-content/uploads/2021/03/Logo_istanbulu_seyret.png" group-title="Mobese",Ortaköy
 https://hls.ibb.gov.tr/ls/cam_turistik/cam_ortakoy.stream/playlist.m3u8
 
-#EXTINF:0,RedTraffic TV Live Cams
-http://live.redtraffic.net/livecams.m3u8
 #EXTINF:0,RedTraffic TV MILF
 http://live.redtraffic.net/milf.m3u8
 #EXTINF:0,RedTraffic TV Big Dick
@@ -523,8 +527,6 @@ http://live.redtraffic.net/cuckold.m3u8
 http://live.redtraffic.net/threesome.m3u8
 #EXTINF:0,RedTraffic TV Russian
 http://live.redtraffic.net/russian.m3u8
-#EXTINF:0,RedTraffic TV Lesbian
-http://live.redtraffic.net/lesbian.m3u8
 #EXTINF:0,RedTraffic TV Rough
 http://live.redtraffic.net/rough.m3u8
 #EXTINF:0,RedTraffic TV Gangbang
