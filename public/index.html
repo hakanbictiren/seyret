@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud IPTV Liste Oluşturucu</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background-color: #0f172a; color: #cbd5e1; padding: 40px 20px; display: flex; justify-content: center; }
+        .container { width: 100%; max-width: 600px; background: #1e293b; padding: 35px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); border: 1px solid #334155; }
+        h2 { color: #34d399; margin-top: 0; border-bottom: 2px solid #334155; padding-bottom: 15px; }
+        .form-group { margin-bottom: 22px; }
+        label { display: block; margin-bottom: 8px; font-weight: 600; color: #94a3b8; font-size: 14px; }
+        input[type="file"] { width: 100%; padding: 12px; background: #020617; border: 2px dashed #475569; border-radius: 8px; color: #fff; cursor: pointer; }
+        button { width: 100%; padding: 14px; background: #2563eb; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: bold; }
+        button:disabled { background: #475569; cursor: not-allowed; }
+        .status { margin-top: 20px; padding: 12px; border-radius: 6px; display: none; font-size: 14px; }
+        .success { background: #064e3b; color: #34d399; }
+        .error { background: #7f1d1d; color: #f87171; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>🚀 IPTV M3U Liste Oluşturucu (Cloud Modu)</h2>
+    <div class="form-group">
+        <label for="jsonFile">channels.json Dosyasını Seçin</label>
+        <input type="file" id="jsonFile" accept=".json">
+    </div>
+    <button id="generateBtn" disabled>Bulut Uyumlu M3U Listesi İndir</button>
+    <div id="statusBox" class="status"></div>
+</div>
+<script>
+    const jsonFileInput = document.getElementById('jsonFile');
+    const generateBtn = document.getElementById('generateBtn');
+    const statusBox = document.getElementById('statusBox');
+    let parsedChannels = null;
+
+    jsonFileInput.addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = function(evt) {
+            try {
+                const data = JSON.parse(evt.target.result);
+                parsedChannels = Array.isArray(data) ? data : (data.channels || Object.values(data)[0]);
+                statusBox.textContent = `✅ ${parsedChannels.length} kanal yüklendi. Listeyi indirebilirsiniz.`;
+                statusBox.className = "status success"; statusBox.style.display = "block";
+                generateBtn.disabled = false;
+            } catch (err) {
+                statusBox.textContent = "❌ Geçersiz JSON formatı!";
+                statusBox.className = "status error"; statusBox.style.display = "block";
+                generateBtn.disabled = true;
+            }
+        };
+        reader.readAsText(file);
+    });
+
+    generateBtn.addEventListener('click', function() {
+        const proxyBaseUrl = window.location.origin; // Bulut sunucu adresini otomatik alır.
+        let m3uContent = "#EXTM3U\n\n";
+        
+        parsedChannels.forEach(ch => {
+            if (ch.id) {
+                m3uContent += `#EXTINF:-1 group-title="${ch.country || 'Genel'}",${ch.name}\n`;
+                m3uContent += `${proxyBaseUrl}/play/${ch.id}/index.m3u8\n\n`;
+            }
+        });
+
+        const blob = new Blob([m3uContent], { type: 'text/plain;charset=utf-8' });
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = 'iptv_cloud_listesi.m3u';
+        link.click();
+    });
+</script>
+</body>
+</html>
