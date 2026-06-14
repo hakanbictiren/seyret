@@ -1,0 +1,13 @@
+{
+  "name": "iptv-smart-proxy",
+  "version": "1.0.0",
+  "description": "Anti-bot bypass IPTV proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
